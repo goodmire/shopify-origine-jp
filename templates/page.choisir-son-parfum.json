@@ -1,0 +1,221 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_mtx9gg": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_GpXtAt": {
+          "type": "subheading",
+          "settings": {
+            "text": "Origine, un monde de parfums"
+          }
+        },
+        "heading_T4EUm6": {
+          "type": "heading",
+          "settings": {
+            "text": "Choisir sa fragrance",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_f7XjXU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Parce que chaque peau et chaque personnalité méritent une senteur unique, nous vous guidons dans le choix de votre parfum idéal. Que vous recherchiez une fragrance florale, boisée ou gourmande, laissez-vous inspirer !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_GpXtAt",
+        "heading_T4EUm6",
+        "richtext_f7XjXU"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/eau-de-parfum-un-beau-matin-d-ete.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_tGph7L": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_9iHeE7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_DUDn48": {
+          "type": "heading",
+          "settings": {
+            "text": "Les notes de nos parfums sont l'expression de notre passion.",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_bG6q4t": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9iHeE7",
+        "heading_DUDn48",
+        "richtext_bG6q4t"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured_collections_eUgnUq": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_R6FrVJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "famille-pf-hesperidees",
+            "products_count": 8,
+            "title": "<strong>Les Hespéridées</strong>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_R6FrVJ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Notes Fraîches et pétillantes (Citron, Bergamote, Orange)"
+      }
+    },
+    "featured_collections_7y9Xjw": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_K74Jm8": {
+          "type": "collection",
+          "settings": {
+            "collection": "famille-pf-orientaux",
+            "products_count": 8,
+            "title": "<strong>Les Orientaux</strong>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_K74Jm8"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Notes sensuelles et envoûtantes (Vanille, Encens, Epices)"
+      }
+    },
+    "featured_collections_NwaUi4": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_gKNqMU": {
+          "type": "collection",
+          "settings": {
+            "collection": "famille-pf-florales",
+            "products_count": 8,
+            "title": "<strong>Les Florales</strong>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_gKNqMU"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Notes douces et féminines (Rose, Jasmin, Muguet..)"
+      }
+    },
+    "featured_collections_yUzy9R": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_YmNaPR": {
+          "type": "collection",
+          "settings": {
+            "collection": "famille-pf-tropicaux",
+            "products_count": 8,
+            "title": "<strong>Les Tropicaux</strong>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_YmNaPR"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Notes exotiques et fleuries"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_mtx9gg",
+    "rich_text_tGph7L",
+    "featured_collections_eUgnUq",
+    "featured_collections_7y9Xjw",
+    "featured_collections_NwaUi4",
+    "featured_collections_yUzy9R"
+  ]
+}

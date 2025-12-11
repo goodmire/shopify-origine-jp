@@ -1,0 +1,83 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "17506670937282d363": {
+      "type": "apps",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "custom_liquid_BjB96A": {
+      "type": "custom-liquid",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "text_alignment": "center"
+      }
+    },
+    "rich_text_tGph7L": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_9iHeE7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_DUDn48": {
+          "type": "heading",
+          "settings": {
+            "text": "“ Parce que notre ADN est la cosmétologie authentique, façonnée par l’artisanat, la passion et le travail, nous connaissons nos produits et nous fabriquons chacun d’entre eux. Nous le faisons pour vous et cela suffit à nous rendre fiers. ”",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_bG6q4t": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9iHeE7",
+        "heading_DUDn48",
+        "richtext_bG6q4t"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17506670937282d363",
+    "custom_liquid_BjB96A",
+    "rich_text_tGph7L"
+  ]
+}

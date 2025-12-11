@@ -1,0 +1,308 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_4Di4Mj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_AFqUrV": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_YTcBXV": {
+          "type": "subheading",
+          "settings": {
+            "text": "Origine s'engage"
+          }
+        },
+        "heading_Rwkaqd": {
+          "type": "heading",
+          "settings": {
+            "text": "Charte sociétale et environnementale",
+            "heading_tag": "h1"
+          }
+        },
+        "button_RcHhgy": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Télécharger la brochure",
+            "url": "https://cdn.shopify.com/s/files/1/0882/4340/5128/files/Les_engagements_Origine_1.pdf?v=1756978458",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_AFqUrV",
+        "subheading_YTcBXV",
+        "heading_Rwkaqd",
+        "button_RcHhgy"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/banniere_abeille.webp",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_TVGPpY": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_pa9jJC": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_QzraQe": {
+          "type": "heading",
+          "settings": {
+            "text": "La charte de formulation Origine",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_TxUq3m": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Contribuer à <strong>protéger la planète</strong> et <strong>préserver ses ressources</strong> sont l’une de nos priorités et nous y attachons une attention particulière tout au long de notre chaîne de valeur : de la sélection des actifs d’origine naturelle à l’emballage, en passant par la formulation. </p><p>En 2018, Origine a décidé de reformuler ses produits en <strong>substituant les ingrédients controversés</strong> comme l’EDTA, les silicones et le phénoxyethanol.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_pa9jJC",
+        "heading_QzraQe",
+        "richtext_TxUq3m"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Labo.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_m8bnQF": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_Q9jdPx": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_AfWgWc": {
+          "type": "heading",
+          "settings": {
+            "text": "L'ESAT : travailleurs adultes handicapés",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_E9GeMX": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Transmettre ce n’est pas remplir un vase, c’est allumer un feu, disait Montaigne. Depuis quelques années, <strong>Origine coopère avec l’ESAT voisin</strong>. Ce partenariat a du sens. Il donne une activité salariée à des adultes handicapés.</p><p>Au travers de cela, une responsabilité, un accomplissement par le travail et une rémunération. Oliver, Julie, Christophe...tous font partie de notre projet d’entreprise. <strong>Tous coopèrent à faire d’Origine ce qu’elle est</strong>. </p><p>Cette équipe nous aide au quotidien, dans un échange humain. Travail contre considération. Implication contre formation. Confiance contre confiance. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Q9jdPx",
+        "heading_AfWgWc",
+        "richtext_E9GeMX"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/cartons.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_QzDYGc": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_Kcpyhq": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_3LUN4m": {
+          "type": "heading",
+          "settings": {
+            "text": "La vie chez Origine",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_nxwkai": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Origine doit tout aux mains qui l’ont façonnée. Des femmes et des hommes, au cours des 12 dernières années, ont tour à tour offert leur cœur. <strong>Nos collaboratrices et collaborateurs sont notre force vitale</strong>. En retour, Origine s’engage auprès d’eux. Ainsi, chaque naissance est célébrée. Père ou mère, se voit offrir une «prime de bonheur». Au-delà de cette initiative, être collaborateur d’Origine signifie surtout être <strong>acteur d’une mission</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Kcpyhq",
+        "heading_3LUN4m",
+        "richtext_nxwkai"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Equipe_Origine_noel_2024.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_CmeKMU": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_XjhXiF": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_DDxtrb": {
+          "type": "heading",
+          "settings": {
+            "text": "La Fondation de la Mer",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_jb9mqV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Parce que<strong> donner du sens à notre mission</strong> est une priorité, Origine s’engage auprès des causes qui lui tiennent à coeur.</p><p>Née dans la Méditerranée, Origine est fière d’être partenaire de la <strong>Fondation de la Mer</strong>. Créée en 2015, la Fondation de la Mer met en œuvre des programmes pour protéger la biodiversité marine, lutter contre les pollutions en mer, soutenir la recherche, encourager l’innovation, informer et sensibiliser.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_XjhXiF",
+        "heading_DDxtrb",
+        "richtext_jb9mqV"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/shutterstock_594031712.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_YdJdzq": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_6QqAkV": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_FQ9MUH": {
+          "type": "heading",
+          "settings": {
+            "text": "Les gestes qui comptent",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_dYgDFX": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>L’engagement écologique</strong> est un cheminement vers une ambition globale. La bienveillance, la réflexion, la cohérence doivent guider chacun de nos pas. </p><p>Nous n’entendons pas être un acteur majeur d’une lutte qui va bien au-delà de nous mais nous avons le pouvoir d’agir. A notre niveau, en cohérence avec nos croyances. Agir simplement, par des <strong>gestes qui comptent</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6QqAkV",
+        "heading_FQ9MUH",
+        "richtext_dYgDFX"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Origine-cosmetiques.com_0020_immortelle.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_tGph7L": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_9iHeE7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_DUDn48": {
+          "type": "heading",
+          "settings": {
+            "text": "“ Parce que notre ADN est la cosmétologie authentique, façonnée par l’artisanat, la passion et le travail, nous connaissons nos produits et nous fabriquons chacun d’entre eux. Nous le faisons pour vous et cela suffit à nous rendre fiers. ”",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_bG6q4t": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9iHeE7",
+        "heading_DUDn48",
+        "richtext_bG6q4t"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_4Di4Mj",
+    "image_with_text_TVGPpY",
+    "image_with_text_m8bnQF",
+    "image_with_text_QzDYGc",
+    "image_with_text_CmeKMU",
+    "image_with_text_YdJdzq",
+    "rich_text_tGph7L"
+  ]
+}

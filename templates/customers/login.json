@@ -1,0 +1,44 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-customers-login",
+      "blocks": {
+        "fields": {
+          "type": "fields",
+          "settings": {
+            "return_to": ""
+          }
+        }
+      },
+      "block_order": [
+        "fields"
+      ],
+      "settings": {}
+    },
+    "custom_liquid_Up9cPD": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<link rel=\"stylesheet\" href=\"https://pro.fontawesome.com/releases/v5.10.0/css/all.css\" /> <center>{% assign mo_appname = \"facebook,google,amazon\" | split: \",\" %}{% for value in mo_appname %}<a href=\"http://shop.miniorange.com/social-login/openidcallback/{{value}}?shop=zjkv3w-fv.myshopify.com&hosts={{ request.host }}\" style=\"display: -webkit-inline-box;\"><img class=\"mo_login_icon_preview btn-{{value}}\" id=\"mo_login_icon_preview_{{value}}\" src=\"http://shop.miniorange.com/social-login/img/{{value}}.png\" style=\"height: 44px; width: 44px; border-radius: 999px; margin-left: 4px;\"></a>{% endfor %} </center>",
+        "text_alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_Up9cPD"
+  ]
+}

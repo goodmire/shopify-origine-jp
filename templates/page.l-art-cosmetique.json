@@ -1,0 +1,144 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_6MYNQw": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Ede79k": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_XyYdjX": {
+          "type": "heading",
+          "settings": {
+            "text": "L'art cosmétique, par Origine",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_iAarPQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Initiée par Origine, l'art cosmétique est une approche <strong>réfléchie et sincère</strong> de l’artisanat cosmétique.</p><p>Dans son intention, dans sa formulation, dans sa présentation, dans son coeur, Origine est <strong>authentique</strong> et s’engage depuis 2011 sur sa promesse. </p><p><strong>Par notre ambition et notre passion, Origine éveille vos sens.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Ede79k",
+        "heading_XyYdjX",
+        "richtext_iAarPQ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multiple_media_with_text_AWawyU": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_teifM7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0002_texture-palm-tree-leaves-perfect-wallpaper-background-3_938694db-f8f6-45eb-b9ef-0eb2b766448c.jpg",
+            "rotation": 0
+          }
+        },
+        "image_gbaiHD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0004_shutterstock_1347487883_Copier.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_teifM7",
+        "image_gbaiHD"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Des principes actifs, issus d’une extraction végétale dont <strong>nous maîtrisons chaque aspects</strong>. Une formulation raisonnée, offerte par la nature. Voilà ce en quoi nous croyons. Voila ce à quoi nous travaillons.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "rich_text_tGph7L": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_9iHeE7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_DUDn48": {
+          "type": "heading",
+          "settings": {
+            "text": "“ Parce que notre ADN est la cosmétologie authentique, façonnée par l’artisanat, la passion et le travail, nous connaissons nos produits et nous fabriquons chacun d’entre eux. Nous le faisons pour vous et cela suffit à nous rendre fiers. ”",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_bG6q4t": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9iHeE7",
+        "heading_DUDn48",
+        "richtext_bG6q4t"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_6MYNQw",
+    "multiple_media_with_text_AWawyU",
+    "rich_text_tGph7L"
+  ]
+}

@@ -1,0 +1,228 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message_EY8PTh": {
+          "type": "message",
+          "settings": {
+            "text": "Origine éveille vos sens"
+          }
+        },
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison offerte dès 50€ d'achat"
+          }
+        },
+        "message_8iX9Jh": {
+          "type": "message",
+          "settings": {
+            "text": "échantillons à chaque commande"
+          }
+        }
+      },
+      "block_order": [
+        "message_EY8PTh",
+        "message-1",
+        "message_8iX9Jh"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1ec0c737-ca1e-4ebe-aea7-ebc041c69a9a",
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 4,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_4NedRY": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "la marque",
+            "images_position": "left",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "shopify://pages/nos-valeurs",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_EzfJM3": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "offrir",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_Xf3QMY": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "La Maison",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_Y6C6yG": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "la marque",
+            "images_position": "left",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "shopify://pages/nos-valeurs",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_DkFnae": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "professionnels",
+            "images_position": "left",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": "shopify://products/brume-de-parfum-fleur-de-coton-instant-cocooning-en-scandinavie"
+          }
+        },
+        "mega_menu_NPETne": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_MBWmkK": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "les soins visage",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_Ve4dmN": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "les soins corps",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_ThjrxC": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "contact",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_hTtXxy": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "les collections parfumées",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_4NedRY",
+        "mega_menu_EzfJM3",
+        "mega_menu_Xf3QMY",
+        "mega_menu_Y6C6yG",
+        "mega_menu_DkFnae",
+        "mega_menu_NPETne",
+        "mega_menu_MBWmkK",
+        "mega_menu_Ve4dmN",
+        "mega_menu_ThjrxC",
+        "mega_menu_hTtXxy"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b5602712-5d31-4069-8d1a-aa5006800ba8",
+        "enable_sticky": true,
+        "hide_on_scroll": true,
+        "show_separation_border": true,
+        "reduce_padding": true,
+        "logo": "shopify://shop_images/Logo_Origine_blanc.png",
+        "logo_max_width": 280,
+        "logo_mobile_max_width": 200,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "menu_open_trigger": "hover",
+        "menu_text_font": "body",
+        "enable_search": true,
+        "sidebar_color_scheme": "",
+        "sidebar_text_font": "body",
+        "sidebar_show_dividers": true,
+        "sidebar_open_second_level_menus": true,
+        "layout": "logo_center_navigation_below",
+        "show_icons": true,
+        "show_country_selector": false,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true,
+        "transparent_header_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

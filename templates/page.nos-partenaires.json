@@ -1,0 +1,521 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_overlay_DL6fPH": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_DP3Pqr": {
+          "type": "heading",
+          "settings": {
+            "text": "Spas, instituts de beauté, hôtels",
+            "heading_tag": "h5"
+          }
+        },
+        "richtext_UgT4Qr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>Nos partenaires</h1>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DP3Pqr",
+        "richtext_UgT4Qr"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/LES-ROCHES-BLANCHES-copyright-D-Delmas-_01.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_Dt3prB": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_HP8JQr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>En France et à l'étranger, Origine crée une relation privilégiée avec chacun des ses clients, par son authenticité et son engagement. Découvrez quelques partenaires de prestige, qui font d'Origine une marque d'excellence.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_HP8JQr"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_ALHyX7": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_zB6WeB": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_iqWief": {
+          "type": "heading",
+          "settings": {
+            "text": "Terre Blanche *****",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_m77ATa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Niché au sein d’une somptueuse bastide provençale, dans le Var, Terre Blanche Spa associe les méthodes de thérapies traditionnelles et modernes, des technologies et cosmétologies innovantes à l’aromathérapie propre à la Provence.</p>"
+          }
+        },
+        "button_UmVaBR": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "découvrir",
+            "url": "https://www.terre-blanche.com/",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zB6WeB",
+        "heading_iqWief",
+        "richtext_m77ATa",
+        "button_UmVaBR"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Terre_Blanche_SITE_INTERNET.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_DpMNTe": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_qWjEzq": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_RzcHWa": {
+          "type": "heading",
+          "settings": {
+            "text": "Sofitel Quiberon *****",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_UNtWTV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Ce havre de paix abrite un océan d'expertises et de bien-être en parfaite harmonie avec la nature environnante. Au coeur du resort, l'Institut de Thalassothérapie & Bien-être vous attend pour une escale détente inoubliable.</p>"
+          }
+        },
+        "button_8Y7hHP": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "découvrir",
+            "url": "https://www.sofitel-quiberon-thalassa.com/",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qWjEzq",
+        "heading_RzcHWa",
+        "richtext_UNtWTV",
+        "button_8Y7hHP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Sofitel-Quiberon-Thalasso_044_FA_BD-800x780.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_MbyJxV": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_ka76KE": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_rnJFPy": {
+          "type": "heading",
+          "settings": {
+            "text": "Les Roches Blanches *****",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_hAkj3K": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>L'hôtel Les Roches Blanches à Cassis offre l'élégance à la française dans un paysage naturel sans équivalent, pour des moments inoubliables.</p>"
+          }
+        },
+        "button_f7prtz": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "découvrir",
+            "url": "https://www.roches-blanches-cassis.com/",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ka76KE",
+        "heading_rnJFPy",
+        "richtext_hAkj3K",
+        "button_f7prtz"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/les_roches_blanches.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_NaYzNW": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_bTwer7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_rGLVNb": {
+          "type": "heading",
+          "settings": {
+            "text": "Villa Gallici *****",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Rnnf9Q": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Vivez une expérience unique au sein d'une bastide Aixoise datant du 18 ème siècle située dans le centre-ville d’Aix en Provence. Offrez-vous une parenthèse de douceur et de sérénité.</p>"
+          }
+        },
+        "button_mteGYW": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "découvrir",
+            "url": "https://www.villagallici.com/fr/",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bTwer7",
+        "heading_rGLVNb",
+        "richtext_Rnnf9Q",
+        "button_mteGYW"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Villa_Gallici.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_qg9GiV": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_bcY7Xn": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_3dNtLU": {
+          "type": "heading",
+          "settings": {
+            "text": "Thalazur Bandol Île Rousse *****",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_U4ibTd": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Prenez le temps de vous faire plaisir et de vous détendre dans un hôtel spa d'exception et profitez-en pour y découvrir tous les secrets de la région du Var dans le sud de la France.</p>"
+          }
+        },
+        "button_hq7Mk3": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "découvrir",
+            "url": "https://www.thalazur.fr/bandol/hotel/",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bcY7Xn",
+        "heading_3dNtLU",
+        "richtext_U4ibTd",
+        "button_hq7Mk3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/thalazur_bandol_ile_rousse_SITE_INTERNET.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_MRHyJK": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_KbYdn9": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_FJagJc": {
+          "type": "heading",
+          "settings": {
+            "text": "Les Corallines La Grande-Motte ****",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_U4gARh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Située en petite Camargue dans un écrin de verdure, la Thalasso & Spa les Corallines vous fait profiter des bienfaits de la thalassothérapie dans un cadre authentique.</p>"
+          }
+        },
+        "button_yTtGXc": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "découvrir",
+            "url": "https://www.thalasso-grandemotte.com/content/25-hotel-thalasso-spa-les-corallines",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KbYdn9",
+        "heading_FJagJc",
+        "richtext_U4gARh",
+        "button_yTtGXc"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/la_grande_motte_5.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_rVUREJ": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_q4JJEc": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/cote_ouest.png",
+            "title": "<a href=\"https://hotel-coteouest.com/fr/\" title=\"https://hotel-coteouest.com/fr/\">Côte Ouest</a>",
+            "heading_tag": "h3",
+            "content": "<p>Les sables d'Olonne</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_t4HWE4": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/spa_o_de_mer.png",
+            "title": "<a href=\"https://www.spaodemer.com/\" title=\"https://www.spaodemer.com/\">Spa Ô de mer</a>",
+            "heading_tag": "h3",
+            "content": "<p>La Ciotat</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_YzhQRh": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/sequoia_redwood.png",
+            "title": "<a href=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\" title=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\">Séquoia Redwood</a>",
+            "heading_tag": "h3",
+            "content": "<p>Vals-les-Bains</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_AibhYE": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/auspa.png",
+            "title": "<a href=\"https://www.auspa.fr/\" title=\"https://www.auspa.fr/\">AuSpa</a>",
+            "heading_tag": "h3",
+            "content": "<p>La Rochelle</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_q4JJEc",
+        "image_with_text_t4HWE4",
+        "image_with_text_YzhQRh",
+        "image_with_text_AibhYE"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 4,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "multi_column_jxQRrC": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_wzL6Qm": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Domaine_de_Saint_Endr_ol.png",
+            "title": "<a href=\"https://st-endreol.com/\" title=\"https://st-endreol.com/\">Domaine de Saint Endréol</a>",
+            "heading_tag": "h3",
+            "content": "<p>La Motte</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_TpEijp": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/spa_l_odyssee.png",
+            "title": "<a href=\"https://www.spaodyssee.com/\" title=\"https://www.spaodyssee.com/\">Spa l'Odyssée</a>",
+            "heading_tag": "h3",
+            "content": "<p>Aix-les-Bains</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_8K3qf3": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/balnea.png",
+            "title": "<a href=\"https://www.balnea.fr/\" title=\"https://www.balnea.fr/\">Balnéa</a>",
+            "heading_tag": "h3",
+            "content": "<p>Loudenvielle</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_KG7ypg": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/reve_de_spa.png",
+            "title": "<a href=\"https://www.reve-de-sable.fr/\" title=\"https://www.reve-de-sable.fr/\">Rêve de Spa</a>",
+            "heading_tag": "h3",
+            "content": "<p>Charnay-lès-Mâcon</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_wzL6Qm",
+        "image_with_text_TpEijp",
+        "image_with_text_8K3qf3",
+        "image_with_text_KG7ypg"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 4,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_DL6fPH",
+    "rich_text_Dt3prB",
+    "image_with_text_ALHyX7",
+    "image_with_text_DpMNTe",
+    "image_with_text_MbyJxV",
+    "image_with_text_NaYzNW",
+    "image_with_text_qg9GiV",
+    "image_with_text_MRHyJK",
+    "multi_column_rVUREJ",
+    "multi_column_jxQRrC"
+  ]
+}

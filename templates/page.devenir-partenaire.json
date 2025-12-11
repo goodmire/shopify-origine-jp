@@ -1,0 +1,407 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_DChq9d": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_FJwtqG": {
+          "type": "heading",
+          "settings": {
+            "text": "choisir origine",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_4VTDLK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>devenir partenaire</h1>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FJwtqG",
+        "richtext_4VTDLK"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/Origine-cosmetiques.com_0002_texture-palm-tree-leaves-perfect-wallpaper-background-3.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_PMACLf": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_bh733f": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_VUEUVP": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_GqThik": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Choisir Origine c'est choisir de faire confiance à une marque française artisanale qui propose des cosmétiques <strong>naturels </strong>et <strong>sensoriels</strong>. Intégrez à votre carte de soins une diversité de parfums et de couleurs et offrez une <strong>évasion sensorielle </strong>à vos clients. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bh733f",
+        "heading_VUEUVP",
+        "richtext_GqThik"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_ALHyX7": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_zB6WeB": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_iqWief": {
+          "type": "heading",
+          "settings": {
+            "text": "Fabrication française & artisanale",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_m77ATa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nos formules, alliant<strong> naturalité et sensorialité</strong> sont fabriquées en Provence dans notre laboratoire<strong> à Gémenos</strong>.</p><p>Notre laboratoire sélectionne avec attention, les matières, les actifs, les senteurs que le monde nous offre afin de créer des formules ciselées par notre amour de ce métier, pour des produits<strong> authentiques et sensoriels</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zB6WeB",
+        "heading_iqWief",
+        "richtext_m77ATa"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/DM3A7892.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "175326523655acea32": {
+      "type": "apps",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true
+      }
+    },
+    "multi_column_TiNTpC": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_THVa4D": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/fleur.png",
+            "title": "<em>Cosmétiques sensoriels</em>",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_eLU8LN": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/main.png",
+            "title": "<em>Fabrication française & artisanale</em>",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_T36AeT": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/feuille.png",
+            "title": "<em>Ingrédients d'origine naturelle & biologique</em>",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_THVa4D",
+        "image_with_text_eLU8LN",
+        "image_with_text_T36AeT"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": true,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "La promesse d'une marque de qualité",
+        "content": ""
+      }
+    },
+    "featured_collections_DKHKjg": {
+      "type": "featured-collections",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "image_with_text_block_ztjrrP": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_kT3Lpm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>L’art cosmétique (.nm)</strong><br/><em>[Philosophie. Par Origine]</em></p><p><br/>Initié par Origine, l’art cosmétique est une approche passionnée de la cosmétologie. <br/>Origine est authentique et s’engage depuis 2011 sur sa promesse. </p><p><em><strong>Origine éveille vos sens.</strong></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_kT3Lpm"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "lg",
+        "image": "shopify://shop_images/Gamme_Monoi_68ae21f8-c819-4031-88b0-c184dc870bb7.jpg",
+        "content_width": "lg",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
+    "collection_list_xM9ztr": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_WyYp33": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "les-soins-visage",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "le visage",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_YF4At3": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "les-parfums",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "les parfums",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_8cymGE": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "les-soins-visage",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "le corps",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_hHUaQR": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "la-maison",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "la maison",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_WyYp33",
+        "collection_YF4At3",
+        "collection_8cymGE",
+        "collection_hHUaQR"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_desktop": 4,
+        "stack_collections_mobile": true,
+        "collections_per_row_mobile": "2",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "image_with_text_block_Abwcey": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_FiYTBd": {
+          "type": "subheading",
+          "settings": {
+            "text": "Les gammes visage"
+          }
+        },
+        "richtext_gBeK4b": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Pour une efficacité globale, Origine a imaginé <strong>5 gammes</strong> de soins visage. Chaque formule intègre une<strong> synergie d’actifs</strong> ciblant vos préoccupations.</p><p>Ces actifs, sélectionnés avec attention, offrent des complexes à l’<strong>efficacité optimale. </strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_FiYTBd",
+        "richtext_gBeK4b"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "lg",
+        "image": "shopify://shop_images/Sans_titre-1.webp",
+        "content_width": "lg",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
+    "multiple_media_with_text_Cc7ChG": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_Qr7JaV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0000_shutterstock_1550379329_1.jpg",
+            "rotation": 0
+          }
+        },
+        "image_BtpVWh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0027_AdobeStock_350255146.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Qr7JaV",
+        "image_BtpVWh"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Les formations Origine",
+        "content": "<p>Elaborés en partenariat avec des experts en soins corps et visage, Origine a mis au point une<strong> offre de formation</strong> complète et valorisante.</p><p>Associés à des produits naturels et sensoriels de qualité, hautement concentrés en actifs, les protocoles de soin Origine, corps et visage, offrent une alliance parfaite entre <strong>plaisir et efficacité</strong>.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_DChq9d",
+    "rich_text_PMACLf",
+    "main",
+    "image_with_text_ALHyX7",
+    "175326523655acea32",
+    "multi_column_TiNTpC",
+    "featured_collections_DKHKjg",
+    "image_with_text_block_ztjrrP",
+    "collection_list_xM9ztr",
+    "image_with_text_block_Abwcey",
+    "multiple_media_with_text_Cc7ChG"
+  ]
+}

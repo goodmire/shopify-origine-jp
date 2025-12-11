@@ -1,0 +1,199 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_overlay_MGP7L4": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_EEpcGH": {
+          "type": "heading",
+          "settings": {
+            "text": "Rejoignez-nous",
+            "heading_tag": "h5"
+          }
+        },
+        "richtext_hHBghP": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>Origine recrute</h1>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EEpcGH",
+        "richtext_hHBghP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/plage.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_eRrPaL": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_6mzTen": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_nqYJjK": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_EGjtiL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chez <strong>Origine</strong>, nous avons une mission claire : allier expertise, artisanat et naturalité pour offrir des soins dermo-cosmétiques d'exception. Si vous partagez notre passion pour l’innovation, la cosmétique naturelle et le bien-être, nous serions ravis de vous compter parmi nous !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6mzTen",
+        "heading_nqYJjK",
+        "richtext_EGjtiL"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multiple_media_with_text_AXJxwr": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_pBiTHa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0033_33_shutterstock_1806265522.jpg",
+            "rotation": 0
+          }
+        },
+        "image_gFRtYN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cr_me_fonda.png",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_pBiTHa",
+        "image_gFRtYN"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Commercial (H/F) - CDI 13420 Gémenos",
+        "content": "<p>Nous recrutons actuellement un(e) <strong>Commercial(e) sédentaire Institut/SPA</strong> basé(e) à Gémenos (13420). Vous serez en charge du suivi et du développement de notre clientèle, de la formation des partenaires et de l’animation du réseau.</p><p>Ce poste, principalement sédentaire, inclut des contacts réguliers avec les clients, la participation à des salons professionnels et des opportunités de challenges commerciaux attractifs. Si vous souhaitez évoluer dans un environnement stimulant et faire partie d’une marque en pleine croissance, envoyez votre candidature.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "multiple_media_with_text_PEKqxW": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_rkKFBn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0016_OnTheSeaside_78.jpg",
+            "rotation": 0
+          }
+        },
+        "image_cReJnx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/monoi_gamme.png",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_rkKFBn",
+        "image_cReJnx"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Stage Assistant chef de produit - 13420 Gémenos",
+        "content": "<p>Actuellement, nous proposons un stage en tant qu'<strong>Assistant(e) Chef de Produits</strong> à Gémenos, où vous participerez activement aux lancements et stratégies de mise en avant de nos gammes. Envie de relever le défi ? Envoyez votre candidature et rejoignez-nous dans cette belle aventure !</p><p></p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "contact_B4ADmw": {
+      "type": "contact",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "<strong>Candidature</strong>",
+        "content": "<p>Vous pouvez nous faire parvenir votre candidature à une offre ou de manière spontanée.<br/>Merci de préciser l'offre à laquelle vous postulez.</p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_MGP7L4",
+    "rich_text_eRrPaL",
+    "multiple_media_with_text_AXJxwr",
+    "multiple_media_with_text_PEKqxW",
+    "contact_B4ADmw"
+  ]
+}
