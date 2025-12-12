@@ -116,11 +116,42 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "featured_collections_nTyXDd": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_8P4mw9": {
+          "type": "collection",
+          "settings": {
+            "collection": "all",
+            "products_count": 8,
+            "title": "Tea and infusions",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_8P4mw9"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "To discover"
+      }
     }
   },
   "order": [
     "hero_text",
     "apps",
-    "logo_list_QfferT"
+    "logo_list_QfferT",
+    "featured_collections_nTyXDd"
   ]
 }
