@@ -9,49 +9,134 @@
  */
 {
   "sections": {
-    "hero_text": {
-      "type": "rich-text",
+    "featured_collections_nTyXDd": {
+      "type": "featured-collections",
       "blocks": {
-        "subheading": {
-          "type": "subheading",
+        "collection_8P4mw9": {
+          "type": "collection",
           "settings": {
-            "text": ""
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "text": "Bienvenue sur Origine",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
+            "collection": "all",
+            "products_count": 8,
+            "title": "What's new",
+            "link_url": "",
+            "link_text": "View all"
           }
         }
       },
       "block_order": [
-        "subheading",
-        "heading",
-        "richtext"
+        "collection_8P4mw9"
       ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "md",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "apps": {
-      "type": "apps",
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "image_with_text_GiXd7E": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_m8G9BJ": {
+          "type": "subheading",
+          "settings": {
+            "text": "A brand in love with beauty"
+          }
+        },
+        "heading_kdjwzr": {
+          "type": "heading",
+          "settings": {
+            "text": "Art becomes cosmetic",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_etA7Hb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A skincare product is never as effective as when it awakens the senses.</p><p>Each fragrance is dressed in shapes and colors.</p><p>This ambition makes Origine a unique brand.</p>"
+          }
+        },
+        "button_GNYzTJ": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Discover cosmetic art",
+            "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_m8G9BJ",
+        "heading_kdjwzr",
+        "richtext_etA7Hb",
+        "button_GNYzTJ"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Huile_satinante_Croisiere_a_Hawai.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_7cEJtc": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_WcMhbC": {
+          "type": "subheading",
+          "settings": {
+            "text": "Un fondateur amoureux d'Origine"
+          }
+        },
+        "heading_tV7KtP": {
+          "type": "heading",
+          "settings": {
+            "text": "Rêver, imaginer, créer.",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_DWgn7E": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Depuis 2011, je poursuis le rêve d'un univers élégant et inoubliable.</p><p>L'art cosmétique est né de cette ambition, vous inviter à découvrir ma conviction : la technicité doit se vivre comme un art.</p><p>Cette ambition fait d'Origine une marque unique.</p><p></p><p><em>Emmanuel Frizac, fondateur d'Origine</em></p>"
+          }
+        },
+        "button_VJ6mtH": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Suivre Emmanuel sur Linked In",
+            "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_WcMhbC",
+        "heading_tV7KtP",
+        "richtext_DWgn7E",
+        "button_VJ6mtH"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/emmanuel_frizac.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
       }
     },
     "logo_list_QfferT": {
@@ -117,10 +202,10 @@
         "logo_item_border": ""
       }
     },
-    "featured_collections_nTyXDd": {
+    "featured_collections_GyHqRd": {
       "type": "featured-collections",
       "blocks": {
-        "collection_8P4mw9": {
+        "collection_JxHb6y": {
           "type": "collection",
           "settings": {
             "collection": "all",
@@ -132,7 +217,7 @@
         }
       },
       "block_order": [
-        "collection_8P4mw9"
+        "collection_JxHb6y"
       ],
       "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
@@ -146,63 +231,13 @@
         "vertical_spacing_factor": 1,
         "subheading": "To discover"
       }
-    },
-    "image_with_text_GiXd7E": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_m8G9BJ": {
-          "type": "subheading",
-          "settings": {
-            "text": "Un fondateur amoureux d'Origine"
-          }
-        },
-        "heading_kdjwzr": {
-          "type": "heading",
-          "settings": {
-            "text": "Rêver, imaginer, créer.",
-            "heading_tag": "h3"
-          }
-        },
-        "richtext_etA7Hb": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Depuis 2011, je poursuis le rêve d'un univers élégant et inoubliable.</p><p>L'art cosmétique est né de cette ambition, vous inviter à découvrir ma conviction : la technicité doit se vivre comme un art.</p><p>Cette ambition fait d'Origine une marque unique.</p><p></p><p><em>Emmanuel Frizac, fondateur d'Origine</em></p>"
-          }
-        },
-        "button_GNYzTJ": {
-          "type": "button",
-          "settings": {
-            "style": "outline",
-            "text": "Suivre Emmanuel sur Linked In",
-            "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_m8G9BJ",
-        "heading_kdjwzr",
-        "richtext_etA7Hb",
-        "button_GNYzTJ"
-      ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image": "shopify://shop_images/emmanuel_frizac.jpg",
-        "reveal_on_scroll": true,
-        "image_position": "end",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
-      }
     }
   },
   "order": [
-    "hero_text",
-    "apps",
-    "logo_list_QfferT",
     "featured_collections_nTyXDd",
-    "image_with_text_GiXd7E"
+    "image_with_text_GiXd7E",
+    "image_with_text_7cEJtc",
+    "logo_list_QfferT",
+    "featured_collections_GyHqRd"
   ]
 }
