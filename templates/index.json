@@ -126,7 +126,7 @@
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "image": "shopify://shop_images/Huile_satinante_Croisiere_a_Hawai.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
@@ -176,7 +176,7 @@
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "image": "shopify://shop_images/emmanuel_frizac.jpg",
         "reveal_on_scroll": true,
         "image_position": "end",
