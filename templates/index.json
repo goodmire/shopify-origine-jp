@@ -9,6 +9,29 @@
  */
 {
   "sections": {
+    "video_pxxffM": {
+      "type": "video",
+      "blocks": {
+        "richtext_qJaPdr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>La Crème Sublimatrice. L'efficacité par Nature. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_qJaPdr"
+      ],
+      "name": "t:sections.video.presets.video.name",
+      "settings": {
+        "autoplay": true,
+        "show_controls": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/918a40e44f8a41fb83720f2537536c89.SD-480p-1.5Mbps-64307348.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
     "rich_text_Y33aWK": {
       "type": "rich-text",
       "blocks": {
@@ -256,6 +279,7 @@
     }
   },
   "order": [
+    "video_pxxffM",
     "rich_text_Y33aWK",
     "featured_collections_nTyXDd",
     "image_with_text_GiXd7E",
