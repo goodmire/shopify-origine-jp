@@ -9,6 +9,81 @@
  */
 {
   "sections": {
+    "video_pxxffM": {
+      "type": "video",
+      "blocks": {
+        "richtext_qJaPdr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>La Crème Sublimatrice. L'efficacité par Nature. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_qJaPdr"
+      ],
+      "name": "t:sections.video.presets.video.name",
+      "settings": {
+        "autoplay": true,
+        "show_controls": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/918a40e44f8a41fb83720f2537536c89.SD-480p-1.5Mbps-64307348.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "rich_text_Y33aWK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_LAkr7n": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h4>Since its creation in Provence in 2011, Origine has imagined and developed natural and sensory care products.</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_LAkr7n"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured_collections_nTyXDd": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_8P4mw9": {
+          "type": "collection",
+          "settings": {
+            "collection": "all",
+            "products_count": 8,
+            "title": "What's new",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_8P4mw9"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "collection_list_qBbx3f": {
       "type": "collection-list",
       "blocks": {
@@ -97,81 +172,6 @@
         "subheading": "",
         "title": "To discover",
         "content": ""
-      }
-    },
-    "video_pxxffM": {
-      "type": "video",
-      "blocks": {
-        "richtext_qJaPdr": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>La Crème Sublimatrice. L'efficacité par Nature. </p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_qJaPdr"
-      ],
-      "name": "t:sections.video.presets.video.name",
-      "settings": {
-        "autoplay": true,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/918a40e44f8a41fb83720f2537536c89.SD-480p-1.5Mbps-64307348.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
-      }
-    },
-    "rich_text_Y33aWK": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_LAkr7n": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h4>Since its creation in Provence in 2011, Origine has imagined and developed natural and sensory care products.</h4>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_LAkr7n"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "featured_collections_nTyXDd": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_8P4mw9": {
-          "type": "collection",
-          "settings": {
-            "collection": "all",
-            "products_count": 8,
-            "title": "What's new",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_8P4mw9"
-      ],
-      "name": "t:sections.featured_collections.presets.featured_collections.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
       }
     },
     "image_with_text_GiXd7E": {
@@ -369,10 +369,10 @@
     }
   },
   "order": [
-    "collection_list_qBbx3f",
     "video_pxxffM",
     "rich_text_Y33aWK",
     "featured_collections_nTyXDd",
+    "collection_list_qBbx3f",
     "image_with_text_GiXd7E",
     "image_with_text_7cEJtc",
     "logo_list_QfferT",
