@@ -9,6 +9,28 @@
  */
 {
   "sections": {
+    "rich_text_Y33aWK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_LAkr7n": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h4>Since its creation in Provence in 2011, Origine has imagined and developed natural and sensory care products.</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_LAkr7n"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "featured_collections_nTyXDd": {
       "type": "featured-collections",
       "blocks": {
@@ -234,6 +256,7 @@
     }
   },
   "order": [
+    "rich_text_Y33aWK",
     "featured_collections_nTyXDd",
     "image_with_text_GiXd7E",
     "image_with_text_7cEJtc",
