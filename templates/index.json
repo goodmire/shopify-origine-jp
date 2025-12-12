@@ -146,12 +146,63 @@
         "vertical_spacing_factor": 1,
         "subheading": "To discover"
       }
+    },
+    "image_with_text_GiXd7E": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_m8G9BJ": {
+          "type": "subheading",
+          "settings": {
+            "text": "Un fondateur amoureux d'Origine"
+          }
+        },
+        "heading_kdjwzr": {
+          "type": "heading",
+          "settings": {
+            "text": "Rêver, imaginer, créer.",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_etA7Hb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Depuis 2011, je poursuis le rêve d'un univers élégant et inoubliable.</p><p>L'art cosmétique est né de cette ambition, vous inviter à découvrir ma conviction : la technicité doit se vivre comme un art.</p><p>Cette ambition fait d'Origine une marque unique.</p><p></p><p><em>Emmanuel Frizac, fondateur d'Origine</em></p>"
+          }
+        },
+        "button_GNYzTJ": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Suivre Emmanuel sur Linked In",
+            "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_m8G9BJ",
+        "heading_kdjwzr",
+        "richtext_etA7Hb",
+        "button_GNYzTJ"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/emmanuel_frizac.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
     "hero_text",
     "apps",
     "logo_list_QfferT",
-    "featured_collections_nTyXDd"
+    "featured_collections_nTyXDd",
+    "image_with_text_GiXd7E"
   ]
 }
