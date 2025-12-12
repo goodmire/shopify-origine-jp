@@ -1,0 +1,381 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "video_pxxffM": {
+      "type": "video",
+      "blocks": {
+        "richtext_qJaPdr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>La Crème Sublimatrice. L'efficacité par Nature. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_qJaPdr"
+      ],
+      "name": "t:sections.video.presets.video.name",
+      "settings": {
+        "autoplay": true,
+        "show_controls": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/918a40e44f8a41fb83720f2537536c89.SD-480p-1.5Mbps-64307348.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "rich_text_Y33aWK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_LAkr7n": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h4>Since its creation in Provence in 2011, Origine has imagined and developed natural and sensory care products.</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_LAkr7n"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured_collections_nTyXDd": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_8P4mw9": {
+          "type": "collection",
+          "settings": {
+            "collection": "all",
+            "products_count": 8,
+            "title": "What's new",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_8P4mw9"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "collection_list_qBbx3f": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_KeMpRY": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_aQ6LRa": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_eV7DWe": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_xUwENm": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_KeMpRY",
+        "collection_aQ6LRa",
+        "collection_eV7DWe",
+        "collection_xUwENm"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_desktop": 4,
+        "stack_collections_mobile": true,
+        "collections_per_row_mobile": "2",
+        "subheading": "",
+        "title": "To discover",
+        "content": ""
+      }
+    },
+    "image_with_text_GiXd7E": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_m8G9BJ": {
+          "type": "subheading",
+          "settings": {
+            "text": "A brand in love with beauty"
+          }
+        },
+        "heading_kdjwzr": {
+          "type": "heading",
+          "settings": {
+            "text": "Art becomes cosmetic",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_etA7Hb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A skincare product is never as effective as when it awakens the senses.</p><p>Each fragrance is dressed in shapes and colors.</p><p>This ambition makes Origine a unique brand.</p>"
+          }
+        },
+        "button_GNYzTJ": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Discover cosmetic art",
+            "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_m8G9BJ",
+        "heading_kdjwzr",
+        "richtext_etA7Hb",
+        "button_GNYzTJ"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify://shop_images/Huile_satinante_Croisiere_a_Hawai.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_7cEJtc": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_WcMhbC": {
+          "type": "subheading",
+          "settings": {
+            "text": "Un fondateur amoureux d'Origine"
+          }
+        },
+        "heading_tV7KtP": {
+          "type": "heading",
+          "settings": {
+            "text": "Rêver, imaginer, créer.",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_DWgn7E": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Depuis 2011, je poursuis le rêve d'un univers élégant et inoubliable.</p><p>L'art cosmétique est né de cette ambition, vous inviter à découvrir ma conviction : la technicité doit se vivre comme un art.</p><p>Cette ambition fait d'Origine une marque unique.</p><p></p><p><em>Emmanuel Frizac, fondateur d'Origine</em></p>"
+          }
+        },
+        "button_VJ6mtH": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Suivre Emmanuel sur Linked In",
+            "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_WcMhbC",
+        "heading_tV7KtP",
+        "richtext_DWgn7E",
+        "button_VJ6mtH"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify://shop_images/emmanuel_frizac.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    },
+    "logo_list_QfferT": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_VAz8Br": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_2.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_HAc4Ff": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/17965720-diaporama-1200x1200.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Q6zWhr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_4.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_VQRtVp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_5.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_3beNRc": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_3.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_VAz8Br",
+        "logo_HAc4Ff",
+        "logo_Q6zWhr",
+        "logo_VQRtVp",
+        "logo_3beNRc"
+      ],
+      "name": "t:sections.logo_list.presets.logo_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Our prestigious partners",
+        "stack_on_mobile": true,
+        "items_per_row": 5,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "featured_collections_GyHqRd": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_JxHb6y": {
+          "type": "collection",
+          "settings": {
+            "collection": "all",
+            "products_count": 8,
+            "title": "Tea and infusions",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_JxHb6y"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "To discover"
+      }
+    }
+  },
+  "order": [
+    "video_pxxffM",
+    "rich_text_Y33aWK",
+    "featured_collections_nTyXDd",
+    "collection_list_qBbx3f",
+    "image_with_text_GiXd7E",
+    "image_with_text_7cEJtc",
+    "logo_list_QfferT",
+    "featured_collections_GyHqRd"
+  ]
+}

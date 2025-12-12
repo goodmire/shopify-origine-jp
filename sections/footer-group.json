@@ -11,18 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "custom_liquid_NTXdAN": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!-- Elfsight Google Reviews | Untitled Google Reviews 2 -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-70fb7222-6fd6-4947-9325-6f2a0f6a0145\" data-elfsight-app-lazy></div>",
-        "text_alignment": "center"
-      }
-    },
     "text_with_icons_cd4Axg": {
       "type": "text-with-icons",
       "blocks": {
@@ -119,7 +107,6 @@
     }
   },
   "order": [
-    "custom_liquid_NTXdAN",
     "text_with_icons_cd4Axg",
     "footer"
   ]
