@@ -53,10 +53,74 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false
       }
+    },
+    "logo_list_QfferT": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_VAz8Br": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_2.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_HAc4Ff": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/17965720-diaporama-1200x1200.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Q6zWhr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_4.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_VQRtVp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_5.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_3beNRc": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_3.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_VAz8Br",
+        "logo_HAc4Ff",
+        "logo_Q6zWhr",
+        "logo_VQRtVp",
+        "logo_3beNRc"
+      ],
+      "name": "t:sections.logo_list.presets.logo_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Our prestigious partners",
+        "stack_on_mobile": true,
+        "items_per_row": 5,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
     "hero_text",
-    "apps"
+    "apps",
+    "logo_list_QfferT"
   ]
 }
