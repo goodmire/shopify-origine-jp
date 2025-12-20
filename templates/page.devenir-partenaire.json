@@ -120,7 +120,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/DM3A7892.jpg",
+        "image": "shopify://shop_images/DM3A7892.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
@@ -142,7 +142,6 @@
         "image_with_text_THVa4D": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/fleur.png",
             "title": "<em>Cosmétiques sensoriels</em>",
             "heading_tag": "h5",
             "content": "",
@@ -153,7 +152,6 @@
         "image_with_text_eLU8LN": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/main.png",
             "title": "<em>Fabrication française & artisanale</em>",
             "heading_tag": "h5",
             "content": "",
@@ -164,7 +162,6 @@
         "image_with_text_T36AeT": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/feuille.png",
             "title": "<em>Ingrédients d'origine naturelle & biologique</em>",
             "heading_tag": "h5",
             "content": "",
@@ -222,7 +219,6 @@
       "settings": {
         "color_scheme": "",
         "image_size": "lg",
-        "image": "shopify://shop_images/Gamme_Monoi_68ae21f8-c819-4031-88b0-c184dc870bb7.jpg",
         "content_width": "lg",
         "enable_parallax": true,
         "remove_vertical_spacing": true
@@ -340,7 +336,6 @@
       "settings": {
         "color_scheme": "",
         "image_size": "lg",
-        "image": "shopify://shop_images/Sans_titre-1.webp",
         "content_width": "lg",
         "enable_parallax": true,
         "remove_vertical_spacing": true
@@ -352,14 +347,12 @@
         "image_Qr7JaV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Origine-cosmetiques.com_0000_shutterstock_1550379329_1.jpg",
             "rotation": 0
           }
         },
         "image_BtpVWh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Origine-cosmetiques.com_0027_AdobeStock_350255146.jpg",
             "rotation": 0
           }
         }
