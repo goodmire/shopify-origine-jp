@@ -42,7 +42,7 @@
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
-        "image": "shopify://shop_images/plage.jpg",
+        "image": "shopify://shop_images/plage.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -95,7 +95,7 @@
         "image_pBiTHa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Origine-cosmetiques.com_0033_33_shutterstock_1806265522.jpg",
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0033_33_shutterstock_1806265522.png",
             "rotation": 0
           }
         },
@@ -123,8 +123,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "",
-        "title": "Commercial (H/F) - CDI 13420 Gémenos",
-        "content": "<p>Nous recrutons actuellement un(e) <strong>Commercial(e) sédentaire Institut/SPA</strong> basé(e) à Gémenos (13420). Vous serez en charge du suivi et du développement de notre clientèle, de la formation des partenaires et de l’animation du réseau.</p><p>Ce poste, principalement sédentaire, inclut des contacts réguliers avec les clients, la participation à des salons professionnels et des opportunités de challenges commerciaux attractifs. Si vous souhaitez évoluer dans un environnement stimulant et faire partie d’une marque en pleine croissance, envoyez votre candidature.</p>",
+        "title": "Sales Representative (M/F) - Permanent Contract 13420 Gémenos",
+        "content": "<p>We are currently recruiting a <strong>Sales Representative for an Institute/SPA</strong> based in Gémenos (13420). You will be responsible for monitoring and developing our clientele, training partners, and managing the network.</p><p>This primarily sedentary position includes regular customer contact, participation in trade shows, and opportunities for attractive sales challenges. If you're looking to work in a stimulating environment and be part of a growing brand, apply now.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -139,7 +139,7 @@
         "image_rkKFBn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Origine-cosmetiques.com_0016_OnTheSeaside_78.jpg",
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0016_OnTheSeaside_78.png",
             "rotation": 0
           }
         },
@@ -167,8 +167,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "",
-        "title": "Stage Assistant chef de produit - 13420 Gémenos",
-        "content": "<p>Actuellement, nous proposons un stage en tant qu'<strong>Assistant(e) Chef de Produits</strong> à Gémenos, où vous participerez activement aux lancements et stratégies de mise en avant de nos gammes. Envie de relever le défi ? Envoyez votre candidature et rejoignez-nous dans cette belle aventure !</p><p></p>",
+        "title": "Assistant Product Manager Internship - 13420 Gémenos",
+        "content": "<p>We're currently offering an internship as<strong>an Assistant Product Manager</strong>in Gémenos, where you'll be actively involved in the launches and promotion strategies for our product lines. Looking for a challenge? Submit your application and join us on this exciting adventure!</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
