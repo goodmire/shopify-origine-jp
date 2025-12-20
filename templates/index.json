@@ -91,7 +91,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "les-soins-visage",
             "image": "shopify://shop_images/Creme_Sublimatrice_Formule_initiale_webp.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
@@ -108,7 +108,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "les-parfums",
             "image": "shopify://shop_images/Brume_de_parfum_Monoi_Origine_2e46a294-ba6e-4ed1-aba3-9cf7ebfbe2b5.jpg",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
@@ -125,7 +125,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "les-soins-corps",
             "image": "shopify://shop_images/creme_soleil_70ml.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
@@ -142,13 +142,13 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "la-maison",
             "image": "shopify://shop_images/L_infusion_tropicale_5.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "ハウス",
+            "button_text": "The House",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
