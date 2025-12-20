@@ -24,14 +24,14 @@
         "heading_EEpcGH": {
           "type": "heading",
           "settings": {
-            "text": "Rejoignez-nous",
+            "text": "私たちの仲間になりませんか",
             "heading_tag": "h5"
           }
         },
         "richtext_hHBghP": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>Origine recrute</h1>"
+            "content": "<h1>オリジーヌでは採用を行っています</h1>"
           }
         }
       },
@@ -72,7 +72,7 @@
         "richtext_EGjtiL": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Chez <strong>Origine</strong>, nous avons une mission claire : allier expertise, artisanat et naturalité pour offrir des soins dermo-cosmétiques d'exception. Si vous partagez notre passion pour l’innovation, la cosmétique naturelle et le bien-être, nous serions ravis de vous compter parmi nous !</p>"
+            "content": "<p><strong>オリジーヌ</strong>の明確な使命は、専門性とクラフトマンシップ、ナチュラルさを組み合わせ、特別なダーマコスメをお届けすることです。イノベーション、ナチュラルコスメ、ウェルビーイングへの情熱を共有してくださる方を心よりお待ちしています。</p>"
           }
         }
       },
@@ -123,8 +123,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "",
-        "title": "Commercial (H/F) - CDI 13420 Gémenos",
-        "content": "<p>Nous recrutons actuellement un(e) <strong>Commercial(e) sédentaire Institut/SPA</strong> basé(e) à Gémenos (13420). Vous serez en charge du suivi et du développement de notre clientèle, de la formation des partenaires et de l’animation du réseau.</p><p>Ce poste, principalement sédentaire, inclut des contacts réguliers avec les clients, la participation à des salons professionnels et des opportunités de challenges commerciaux attractifs. Si vous souhaitez évoluer dans un environnement stimulant et faire partie d’une marque en pleine croissance, envoyez votre candidature.</p>",
+        "title": "営業職（男女不問）- 正社員｜13420 ジェメノス",
+        "content": "<p>現在、ジェメノス（13420）で<strong>インハウス営業（インスティテュート／スパ担当）</strong>を募集しています。顧客フォローや開拓、パートナー向け研修の実施、ネットワークの活性化をお任せします。</p><p>主に内勤のお仕事ですが、お客様との定期的なコミュニケーションに加え、展示会への参加や魅力的な営業チャレンジの機会があります。成長中のブランドで刺激的な環境を求めている方は、ぜひご応募ください。</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -167,8 +167,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "",
-        "title": "Stage Assistant chef de produit - 13420 Gémenos",
-        "content": "<p>Actuellement, nous proposons un stage en tant qu'<strong>Assistant(e) Chef de Produits</strong> à Gémenos, où vous participerez activement aux lancements et stratégies de mise en avant de nos gammes. Envie de relever le défi ? Envoyez votre candidature et rejoignez-nous dans cette belle aventure !</p><p></p>",
+        "title": "商品企画アシスタント（インターン）- 13420 ジェメノス",
+        "content": "<p>現在、ジェメノスで<strong>商品企画アシスタント（インターン）</strong>を募集中です。各ラインの立ち上げや販促戦略に積極的に関わっていただきます。挑戦してみたい方は、ぜひご応募のうえ、このワクワクする旅にご参加ください！</p><p></p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -183,8 +183,8 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "<strong>Candidature</strong>",
-        "content": "<p>Vous pouvez nous faire parvenir votre candidature à une offre ou de manière spontanée.<br/>Merci de préciser l'offre à laquelle vous postulez.</p>"
+        "title": "<strong>ご応募について</strong>",
+        "content": "<p>募集職種への応募、または自主応募を受け付けています。<br/>応募するポジションを明記のうえでお送りください。</p>"
       }
     }
   },

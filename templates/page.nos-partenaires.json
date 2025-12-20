@@ -24,14 +24,14 @@
         "heading_DP3Pqr": {
           "type": "heading",
           "settings": {
-            "text": "Spas, instituts de beauté, hôtels",
+            "text": "スパ・エステ・ホテル",
             "heading_tag": "h5"
           }
         },
         "richtext_UgT4Qr": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>Nos partenaires</h1>"
+            "content": "<h1>パートナーのご紹介</h1>"
           }
         }
       },
@@ -59,7 +59,7 @@
         "richtext_HP8JQr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>En France et à l'étranger, Origine crée une relation privilégiée avec chacun des ses clients, par son authenticité et son engagement. Découvrez quelques partenaires de prestige, qui font d'Origine une marque d'excellence.</p>"
+            "content": "<p>オリジーヌはフランス国内外で、真摯さとコミットメントを大切にしながらお客様一人ひとりと特別な関係を築いています。ここでは、オリジーヌを卓越したブランドへと導いてくださっている代表的なパートナーをご紹介します。</p>"
           }
         }
       },
@@ -93,14 +93,14 @@
         "richtext_m77ATa": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Niché au sein d’une somptueuse bastide provençale, dans le Var, Terre Blanche Spa associe les méthodes de thérapies traditionnelles et modernes, des technologies et cosmétologies innovantes à l’aromathérapie propre à la Provence.</p>"
+            "content": "<p>ヴァール県の壮麗なプロヴァンス邸宅に併設されたテール・ブランシュ スパ。伝統と最新のセラピー手法に加え、革新的なテクノロジーやコスメをプロヴァンスならではのアロマと組み合わせています。</p>"
           }
         },
         "button_UmVaBR": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳細を見る",
             "url": "https://www.terre-blanche.com/",
             "background": "",
             "text_color": ""
@@ -142,14 +142,14 @@
         "richtext_UNtWTV": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Ce havre de paix abrite un océan d'expertises et de bien-être en parfaite harmonie avec la nature environnante. Au coeur du resort, l'Institut de Thalassothérapie & Bien-être vous attend pour une escale détente inoubliable.</p>"
+            "content": "<p>自然と調和した安らぎの空間で、多彩な専門知識とウェルネス体験をお楽しみいただけます。リゾートの中心にあるタラソテラピー＆ウェルネス インスティテュートで、忘れられないリラックスタイムを。</p>"
           }
         },
         "button_8Y7hHP": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳細を見る",
             "url": "https://www.sofitel-quiberon-thalassa.com/",
             "background": "",
             "text_color": ""
@@ -191,14 +191,14 @@
         "richtext_hAkj3K": {
           "type": "richtext",
           "settings": {
-            "content": "<p>L'hôtel Les Roches Blanches à Cassis offre l'élégance à la française dans un paysage naturel sans équivalent, pour des moments inoubliables.</p>"
+            "content": "<p>カシスのホテル・レ・ロッシュ・ブランシュでは、他にない自然景観の中でフランス流のエレガンスを堪能し、忘れられないひとときをお過ごしいただけます。</p>"
           }
         },
         "button_f7prtz": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳細を見る",
             "url": "https://www.roches-blanches-cassis.com/",
             "background": "",
             "text_color": ""
@@ -240,14 +240,14 @@
         "richtext_Rnnf9Q": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Vivez une expérience unique au sein d'une bastide Aixoise datant du 18 ème siècle située dans le centre-ville d’Aix en Provence. Offrez-vous une parenthèse de douceur et de sérénité.</p>"
+            "content": "<p>エクサン・プロヴァンスの中心に佇む18世紀の邸宅ホテルで、唯一無二の滞在体験を。やさしさと静けさに包まれた至福の時間をお楽しみください。</p>"
           }
         },
         "button_mteGYW": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳細を見る",
             "url": "https://www.villagallici.com/fr/",
             "background": "",
             "text_color": ""
@@ -289,14 +289,14 @@
         "richtext_U4ibTd": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Prenez le temps de vous faire plaisir et de vous détendre dans un hôtel spa d'exception et profitez-en pour y découvrir tous les secrets de la région du Var dans le sud de la France.</p>"
+            "content": "<p>特別なホテルスパでゆっくりとくつろぎ、南仏ヴァール地方の魅力を心ゆくまで味わってください。</p>"
           }
         },
         "button_hq7Mk3": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳細を見る",
             "url": "https://www.thalazur.fr/bandol/hotel/",
             "background": "",
             "text_color": ""
@@ -338,14 +338,14 @@
         "richtext_U4gARh": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Située en petite Camargue dans un écrin de verdure, la Thalasso & Spa les Corallines vous fait profiter des bienfaits de la thalassothérapie dans un cadre authentique.</p>"
+            "content": "<p>緑豊かなプチ・カマルグに位置するタラソ＆スパ レ・コラリーヌで、本格的なタラソテラピーの恵みを体験いただけます。</p>"
           }
         },
         "button_yTtGXc": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳細を見る",
             "url": "https://www.thalasso-grandemotte.com/content/25-hotel-thalasso-spa-les-corallines",
             "background": "",
             "text_color": ""

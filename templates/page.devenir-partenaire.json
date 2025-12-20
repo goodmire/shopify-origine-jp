@@ -15,14 +15,14 @@
         "heading_FJwtqG": {
           "type": "heading",
           "settings": {
-            "text": "choisir origine",
+            "text": "オリジーヌを選ぶ理由",
             "heading_tag": "h3"
           }
         },
         "richtext_4VTDLK": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>devenir partenaire</h1>"
+            "content": "<h1>パートナーになる</h1>"
           }
         }
       },
@@ -63,7 +63,7 @@
         "richtext_GqThik": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Choisir Origine c'est choisir de faire confiance à une marque française artisanale qui propose des cosmétiques <strong>naturels </strong>et <strong>sensoriels</strong>. Intégrez à votre carte de soins une diversité de parfums et de couleurs et offrez une <strong>évasion sensorielle </strong>à vos clients. </p>"
+            "content": "<p>オリジーヌを選ぶことは、<strong>ナチュラル</strong>で<strong>五感に響く</strong>コスメを届けるフランスの職人ブランドを信頼すること。施術メニューに多彩な香りとカラーを取り入れ、お客様に感動の体験をお届けしましょう。</p>"
           }
         }
       },
@@ -101,14 +101,14 @@
         "heading_iqWief": {
           "type": "heading",
           "settings": {
-            "text": "Fabrication française & artisanale",
+            "text": "フランスの職人製造",
             "heading_tag": "h1"
           }
         },
         "richtext_m77ATa": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Nos formules, alliant<strong> naturalité et sensorialité</strong> sont fabriquées en Provence dans notre laboratoire<strong> à Gémenos</strong>.</p><p>Notre laboratoire sélectionne avec attention, les matières, les actifs, les senteurs que le monde nous offre afin de créer des formules ciselées par notre amour de ce métier, pour des produits<strong> authentiques et sensoriels</strong>.</p>"
+            "content": "<p><strong>ナチュラルさと官能性</strong>を兼ね備えた処方は、プロヴァンスのジェメノスにある自社ラボで一つひとつ丁寧に作られています。</p><p>原料や有効成分、香りを厳選し、この仕事への情熱を込めて<strong>本物志向で五感に響く</strong>製品を仕立てています。</p>"
           }
         }
       },
@@ -143,7 +143,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/fleur.png",
-            "title": "<em>Cosmétiques sensoriels</em>",
+            "title": "<em>五感に響くコスメ</em>",
             "heading_tag": "h5",
             "content": "",
             "link_url": "",
@@ -154,7 +154,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/main.png",
-            "title": "<em>Fabrication française & artisanale</em>",
+            "title": "<em>フランスの職人製造</em>",
             "heading_tag": "h5",
             "content": "",
             "link_url": "",
@@ -165,7 +165,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/feuille.png",
-            "title": "<em>Ingrédients d'origine naturelle & biologique</em>",
+            "title": "<em>天然・オーガニック由来成分</em>",
             "heading_tag": "h5",
             "content": "",
             "link_url": "",
@@ -179,19 +179,19 @@
         "image_with_text_T36AeT"
       ],
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": true,
-        "content_alignment": "center",
-        "text_alignment": "center",
-        "spacing": "xs",
-        "subheading": "",
-        "title": "La promesse d'une marque de qualité",
-        "content": ""
-      }
-    },
+          "color_scheme": "",
+          "separate_section_with_border": true,
+          "columns_per_row": 3,
+          "stack_on_mobile": false,
+          "overlap_image": true,
+          "content_alignment": "center",
+          "text_alignment": "center",
+          "spacing": "xs",
+          "subheading": "",
+          "title": "品質にこだわるブランドの約束",
+          "content": ""
+        }
+      },
     "featured_collections_DKHKjg": {
       "type": "featured-collections",
       "settings": {
@@ -212,7 +212,7 @@
         "richtext_kT3Lpm": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>L’art cosmétique (.nm)</strong><br/><em>[Philosophie. Par Origine]</em></p><p><br/>Initié par Origine, l’art cosmétique est une approche passionnée de la cosmétologie. <br/>Origine est authentique et s’engage depuis 2011 sur sa promesse. </p><p><em><strong>Origine éveille vos sens.</strong></em></p>"
+            "content": "<p><strong>アート・コスメティック（名詞）</strong><br/><em>[フィロソフィー｜オリジーヌ]</em></p><p><br/>オリジーヌが提唱するアート・コスメティックは、情熱を込めたコスメづくりの姿勢です。<br/>2011年の創業以来、オリジーヌは真摯なブランドであり続けることを約束します。</p><p><em><strong>オリジーヌは、あなたの感性を呼び覚まします。</strong></em></p>"
           }
         }
       },
@@ -238,12 +238,12 @@
             "collection": "les-soins-visage",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "le visage",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
+              "subheading": "",
+              "title": "",
+              "button_text": "フェイスケア",
+              "button_link": "",
+              "button_style": "solid",
+              "overlay_color": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -254,12 +254,12 @@
             "collection": "les-parfums",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "les parfums",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
+              "subheading": "",
+              "title": "",
+              "button_text": "フレグランス",
+              "button_link": "",
+              "button_style": "solid",
+              "overlay_color": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -270,12 +270,12 @@
             "collection": "les-soins-visage",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "le corps",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
+              "subheading": "",
+              "title": "",
+              "button_text": "ボディケア",
+              "button_link": "",
+              "button_style": "solid",
+              "overlay_color": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -286,12 +286,12 @@
             "collection": "la-maison",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "la maison",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
+              "subheading": "",
+              "title": "",
+              "button_text": "ホームコレクション",
+              "button_link": "",
+              "button_style": "solid",
+              "overlay_color": "#000000",
             "overlay_opacity": 30
           }
         }
@@ -319,20 +319,20 @@
     },
     "image_with_text_block_Abwcey": {
       "type": "image-with-text-block",
-      "blocks": {
-        "subheading_FiYTBd": {
-          "type": "subheading",
-          "settings": {
-            "text": "Les gammes visage"
-          }
-        },
-        "richtext_gBeK4b": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Pour une efficacité globale, Origine a imaginé <strong>5 gammes</strong> de soins visage. Chaque formule intègre une<strong> synergie d’actifs</strong> ciblant vos préoccupations.</p><p>Ces actifs, sélectionnés avec attention, offrent des complexes à l’<strong>efficacité optimale. </strong></p>"
-          }
-        }
-      },
+          "blocks": {
+            "subheading_FiYTBd": {
+              "type": "subheading",
+              "settings": {
+                "text": "フェイシャルライン"
+              }
+            },
+            "richtext_gBeK4b": {
+              "type": "richtext",
+              "settings": {
+                "content": "<p>オリジーヌは効果を最大化するために<strong>5つのフェイシャルライン</strong>を展開しています。各処方には、お悩みに寄り添う<strong>有効成分のシナジー</strong>を配合。</p><p>厳選した成分が<strong>最適な結果</strong>を引き出します。</p>"
+              }
+            }
+          },
       "block_order": [
         "subheading_FiYTBd",
         "richtext_gBeK4b"
@@ -380,8 +380,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "",
-        "title": "Les formations Origine",
-        "content": "<p>Elaborés en partenariat avec des experts en soins corps et visage, Origine a mis au point une<strong> offre de formation</strong> complète et valorisante.</p><p>Associés à des produits naturels et sensoriels de qualité, hautement concentrés en actifs, les protocoles de soin Origine, corps et visage, offrent une alliance parfaite entre <strong>plaisir et efficacité</strong>.</p>",
+        "title": "オリジーヌの研修",
+        "content": "<p>ボディ＆フェイシャルの専門家と共同開発した<strong>充実の研修プログラム</strong>をご用意しています。</p><p>ナチュラルで官能的、高濃度の有効成分を配合した製品と組み合わせ、オリジーヌのケアプロトコルは<strong>心地よさと結果</strong>の両立を目指します。</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",

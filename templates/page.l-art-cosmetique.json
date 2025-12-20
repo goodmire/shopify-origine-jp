@@ -30,14 +30,14 @@
         "heading_XyYdjX": {
           "type": "heading",
           "settings": {
-            "text": "L'art cosmétique, par Origine",
+            "text": "オリジーヌが提唱するアート・コスメティック",
             "heading_tag": "h1"
           }
         },
         "richtext_iAarPQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Initiée par Origine, l'art cosmétique est une approche <strong>réfléchie et sincère</strong> de l’artisanat cosmétique.</p><p>Dans son intention, dans sa formulation, dans sa présentation, dans son coeur, Origine est <strong>authentique</strong> et s’engage depuis 2011 sur sa promesse. </p><p><strong>Par notre ambition et notre passion, Origine éveille vos sens.</strong></p>"
+            "content": "<p>オリジーヌが掲げるアート・コスメティックは、<strong>熟慮と誠実さ</strong>に基づくコスメづくりへのアプローチです。</p><p>意図、処方、プレゼンテーション、そのすべての核でオリジーヌは<strong>本物</strong>であり、2011年からの約束を守り続けています。</p><p><strong>私たちの志と情熱が、あなたの感性を呼び覚まします。</strong></p>"
           }
         }
       },
@@ -89,7 +89,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "<p>Des principes actifs, issus d’une extraction végétale dont <strong>nous maîtrisons chaque aspects</strong>. Une formulation raisonnée, offerte par la nature. Voilà ce en quoi nous croyons. Voila ce à quoi nous travaillons.</p>",
+        "content": "<p>植物から抽出した有効成分を<strong>一つひとつ丁寧にコントロール</strong>し、自然がもたらす理にかなった処方を追求しています。これこそが私たちの信念であり、日々取り組んでいることです。</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -110,7 +110,7 @@
         "heading_DUDn48": {
           "type": "heading",
           "settings": {
-            "text": "“ Parce que notre ADN est la cosmétologie authentique, façonnée par l’artisanat, la passion et le travail, nous connaissons nos produits et nous fabriquons chacun d’entre eux. Nous le faisons pour vous et cela suffit à nous rendre fiers. ”",
+            "text": "「私たちのDNAは、職人技と情熱、たゆまぬ努力で磨かれた本物のコスメ。すべての製品を自分たちで知り、自分たちの手で作っています。あなたのために。それこそが私たちの誇りです。」",
             "heading_tag": "h4"
           }
         },
