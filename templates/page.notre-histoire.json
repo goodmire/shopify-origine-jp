@@ -23,7 +23,7 @@
         "item_KwWcze": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Origine-cosmetiques.com_0000_shutterstock_1550379329_1.jpg",
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0000_shutterstock_1550379329_1.webp",
             "label": "2009",
             "subheading": "2009",
             "title": "Le souffle de l’artisanat",
@@ -37,7 +37,7 @@
         "item_n9grrV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/prairie-1246633_1920.jpg",
+            "image": "shopify://shop_images/prairie-1246633_1920.png",
             "label": "2010",
             "subheading": "2010",
             "title": "Le parfum d'une idée",
@@ -51,7 +51,7 @@
         "item_dJJaDq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Origine-cosmetiques.com_0012_shutterstock_1095413081.jpg",
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0012_shutterstock_1095413081.png",
             "label": "2011",
             "subheading": "2011",
             "title": "Un ancrage en Provence de Bandol à Gémenos",
@@ -65,7 +65,7 @@
         "item_6GbpJW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Origine-cosmetiques.com_0017_Massage.jpg",
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0017_Massage.png",
             "label": "2012",
             "subheading": "2012",
             "title": "Le premier geste : l'Huile Originelle",
@@ -107,7 +107,7 @@
         "item_BKrcnD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Huile_satinante_de_beaute_Monoi.webp",
+            "image": "shopify://shop_images/Huile_satinante_de_beaute_Monoi.jpg",
             "label": "2019",
             "subheading": "2019",
             "title": "Un flacon signature",
