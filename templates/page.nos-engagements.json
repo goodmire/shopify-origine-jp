@@ -61,7 +61,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/banniere_abeille.webp",
+        "image": "shopify://shop_images/banniere_abeille.png",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
@@ -175,7 +175,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Equipe_Origine_noel_2024.jpg",
+        "image": "shopify://shop_images/Equipe_Origine_noel_2024.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
@@ -213,7 +213,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/shutterstock_594031712.jpg",
+        "image": "shopify://shop_images/shutterstock_594031712.png",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "lg",
@@ -251,7 +251,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Origine-cosmetiques.com_0020_immortelle.jpg",
+        "image": "shopify://shop_images/Origine-cosmetiques.com_0020_immortelle.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
