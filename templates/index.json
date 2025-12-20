@@ -62,7 +62,7 @@
           "settings": {
             "collection": "all",
             "products_count": 8,
-            "title": "What's new",
+            "title": "New Arrival",
             "link_url": "",
             "link_text": "View all"
           }
@@ -174,7 +174,7 @@
         "stack_collections_mobile": true,
         "collections_per_row_mobile": "2",
         "subheading": "",
-        "title": "To discover",
+        "title": "カテゴリから探す",
         "content": ""
       }
     },
@@ -184,27 +184,27 @@
         "subheading_m8G9BJ": {
           "type": "subheading",
           "settings": {
-            "text": "A brand in love with beauty"
+            "text": "美を愛するブランド"
           }
         },
         "heading_kdjwzr": {
           "type": "heading",
           "settings": {
-            "text": "Art becomes cosmetic",
+            "text": "アートがコスメになる。",
             "heading_tag": "h3"
           }
         },
         "richtext_etA7Hb": {
           "type": "richtext",
           "settings": {
-            "content": "<p>A skincare product is never as effective as when it awakens the senses.</p><p>Each fragrance is dressed in shapes and colors.</p><p>This ambition makes Origine a unique brand.</p>"
+            "content": "<p>スキンケアは、感覚を目覚めさせたときにこそ、いっそう効果を発揮します。</p><p>それぞれの香りは、かたちと色をまとって表現されます。</p><p>この想いこそが、Origine を唯一無二のブランドにしています。</p>"
           }
         },
         "button_GNYzTJ": {
           "type": "button",
           "settings": {
             "style": "outline",
-            "text": "Discover cosmetic art",
+            "text": "化粧品というアートに出会う",
             "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
             "background": "",
             "text_color": ""
@@ -234,20 +234,20 @@
         "subheading_WcMhbC": {
           "type": "subheading",
           "settings": {
-            "text": "Un fondateur amoureux d'Origine"
+            "text": "Origine を愛する創業者"
           }
         },
         "heading_tV7KtP": {
           "type": "heading",
           "settings": {
-            "text": "Rêver, imaginer, créer.",
+            "text": "夢見る、想像する、創り出す。",
             "heading_tag": "h3"
           }
         },
         "richtext_DWgn7E": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Depuis 2011, je poursuis le rêve d'un univers élégant et inoubliable.</p><p>L'art cosmétique est né de cette ambition, vous inviter à découvrir ma conviction : la technicité doit se vivre comme un art.</p><p>Cette ambition fait d'Origine une marque unique.</p><p></p><p><em>Emmanuel Frizac, fondateur d'Origine</em></p>"
+            "content": "<p>2011年から私は、エレガントで忘れがたい世界をつくるという夢を追い続けてきました。<br/><br/>この想いから生まれたのが「コスメティックアート」です。私の信念――技術は“アート”として体験されるべきだということ――を、ぜひ感じてください。<br/><br/>この志こそが、Origine を唯一無二のブランドにしています。</p><p>エマニュエル・フリザック（Origine 創設者）</p>"
           }
         },
         "button_VJ6mtH": {
@@ -349,7 +349,7 @@
           "settings": {
             "collection": "all",
             "products_count": 8,
-            "title": "Tea and infusions",
+            "title": "お茶とハーブティー",
             "link_url": "",
             "link_text": "View all"
           }
@@ -368,7 +368,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "To discover"
+        "subheading": "おすすめアイテム"
       }
     }
   },
