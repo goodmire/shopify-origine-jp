@@ -24,20 +24,20 @@
         "subheading_GpXtAt": {
           "type": "subheading",
           "settings": {
-            "text": "Origine, un monde de parfums"
+            "text": "オリジーヌ、香りの世界"
           }
         },
         "heading_T4EUm6": {
           "type": "heading",
           "settings": {
-            "text": "Choisir sa fragrance",
+            "text": "理想の香りを選ぶ",
             "heading_tag": "h2"
           }
         },
         "richtext_f7XjXU": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Parce que chaque peau et chaque personnalité méritent une senteur unique, nous vous guidons dans le choix de votre parfum idéal. Que vous recherchiez une fragrance florale, boisée ou gourmande, laissez-vous inspirer !</p>"
+            "content": "<p>肌質も個性も一人ひとり違うからこそ、香りもあなたらしく。フローラル、ウッディ、グルマン…お好みに合わせた理想のフレグランス選びをお手伝いします。</p>"
           }
         }
       },
@@ -68,7 +68,7 @@
         "heading_DUDn48": {
           "type": "heading",
           "settings": {
-            "text": "Les notes de nos parfums sont l'expression de notre passion.",
+            "text": "オリジーヌの香りのノートは、私たちの情熱そのものです。",
             "heading_tag": "h4"
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "collection": "famille-pf-hesperidees",
             "products_count": 8,
-            "title": "<strong>Les Hespéridées</strong>",
+            "title": "<strong>ヘスペリデス（シトラス）</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -110,17 +110,17 @@
         "collection_R6FrVJ"
       ],
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Notes Fraîches et pétillantes (Citron, Bergamote, Orange)"
-      }
-    },
+          "color_scheme": "",
+          "separate_section_with_border": true,
+          "hide_product_information": false,
+          "stack_products": false,
+          "products_per_row_mobile": "1",
+          "products_per_row_desktop": 4,
+          "horizontal_spacing_factor": 1,
+          "vertical_spacing_factor": 1,
+          "subheading": "爽やかで弾けるシトラスノート（レモン、ベルガモット、オレンジ）"
+        }
+      },
     "featured_collections_7y9Xjw": {
       "type": "featured-collections",
       "blocks": {
@@ -129,7 +129,7 @@
           "settings": {
             "collection": "famille-pf-orientaux",
             "products_count": 8,
-            "title": "<strong>Les Orientaux</strong>",
+            "title": "<strong>オリエンタル</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -139,17 +139,17 @@
         "collection_K74Jm8"
       ],
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Notes sensuelles et envoûtantes (Vanille, Encens, Epices)"
-      }
-    },
+          "color_scheme": "",
+          "separate_section_with_border": true,
+          "hide_product_information": false,
+          "stack_products": false,
+          "products_per_row_mobile": "1",
+          "products_per_row_desktop": 4,
+          "horizontal_spacing_factor": 1,
+          "vertical_spacing_factor": 1,
+          "subheading": "センシュアルで魅惑的なノート（バニラ、インセンス、スパイス）"
+        }
+      },
     "featured_collections_NwaUi4": {
       "type": "featured-collections",
       "blocks": {
@@ -158,7 +158,7 @@
           "settings": {
             "collection": "famille-pf-florales",
             "products_count": 8,
-            "title": "<strong>Les Florales</strong>",
+            "title": "<strong>フローラル</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -168,17 +168,17 @@
         "collection_gKNqMU"
       ],
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Notes douces et féminines (Rose, Jasmin, Muguet..)"
-      }
-    },
+          "color_scheme": "",
+          "separate_section_with_border": true,
+          "hide_product_information": false,
+          "stack_products": false,
+          "products_per_row_mobile": "1",
+          "products_per_row_desktop": 4,
+          "horizontal_spacing_factor": 1,
+          "vertical_spacing_factor": 1,
+          "subheading": "やわらかくフェミニンなノート（ローズ、ジャスミン、スズランなど）"
+        }
+      },
     "featured_collections_yUzy9R": {
       "type": "featured-collections",
       "blocks": {
@@ -187,7 +187,7 @@
           "settings": {
             "collection": "famille-pf-tropicaux",
             "products_count": 8,
-            "title": "<strong>Les Tropicaux</strong>",
+            "title": "<strong>トロピカル</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -197,18 +197,18 @@
         "collection_YmNaPR"
       ],
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Notes exotiques et fleuries"
+          "color_scheme": "",
+          "separate_section_with_border": true,
+          "hide_product_information": false,
+          "stack_products": false,
+          "products_per_row_mobile": "1",
+          "products_per_row_desktop": 4,
+          "horizontal_spacing_factor": 1,
+          "vertical_spacing_factor": 1,
+          "subheading": "エキゾチックで華やかなノート"
+        }
       }
-    }
-  },
+    },
   "order": [
     "main",
     "image_with_text_mtx9gg",
