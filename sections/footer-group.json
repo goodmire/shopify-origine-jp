@@ -20,8 +20,8 @@
             "icon": "picto-gift",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Echantillons offerts",
-            "content": "<p>Pour chaque commande</p>"
+            "title": "サンプルプレゼント",
+            "content": "<p>ご注文1件につき</p>"
           }
         },
         "item_7mMbpp": {
@@ -30,8 +30,8 @@
             "icon": "picto-delivery-truck",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Livraison gratuite dès 50€",
-            "content": "<p>En 48h</p>"
+            "title": "5,000円以上のご注文で送料無料",
+            "content": "<p>48時間以内ににお届け</p>"
           }
         },
         "item_UKfwEF": {
@@ -40,8 +40,8 @@
             "icon": "picto-success",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Satisfaction garantie",
-            "content": "<p>Pendant 14 jours d'application</p>"
+            "title": "返金保証",
+            "content": "<p>使用開始から14日間</p>"
           }
         },
         "item_3nXeRU": {
@@ -50,8 +50,8 @@
             "icon": "picto-chat",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Réseaux sociaux",
-            "content": "<p>Apprenez à nous connaître</p>"
+            "title": "ソーシャルメディア",
+            "content": "<p>私たちを知る</p>"
           }
         }
       },
@@ -84,8 +84,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "<strong>Origine, maison de cosmétiques française</strong>",
-            "content": "<p>Depuis 2011, Origine, fondée en Provence, puise son <em>inspiration </em>dans la nature, la <em>sensorialité </em>et <em>l'excellence </em>cosmétique. </p><p>Chaque <em>création </em>raconte une <em>histoire </em>de <em>peau</em>, de bien-être et de <em>beauté authentique</em>.<br/><br/></p>",
+            "title": "<strong>フランス発コスメティックブランド Origine</strong>",
+            "content": "<p>2011年にプロヴァンスで誕生した Origine は、自然、感性、そして化粧品としての卓越性からインスピレーションを得ています。<br/><br/>ひとつひとつのクリエーションが、肌とウェルビーイング、そして本物の美しさの物語を紡ぎます。</p>",
             "enable_follow_on_shop": false
           }
         }
