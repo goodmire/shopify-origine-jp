@@ -85,7 +85,7 @@
         "links_wqHFpm": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "about",
             "show_menu_title": true,
             "menu_title": ""
           }
