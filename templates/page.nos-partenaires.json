@@ -42,7 +42,7 @@
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
-        "image": "shopify://shop_images/LES-ROCHES-BLANCHES-copyright-D-Delmas-_01.jpg",
+        "image": "shopify://shop_images/LES-ROCHES-BLANCHES-copyright-D-Delmas-_01.webp",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -116,7 +116,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Terre_Blanche_SITE_INTERNET.jpg",
+        "image": "shopify://shop_images/Terre_Blanche_SITE_INTERNET.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
@@ -165,7 +165,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Sofitel-Quiberon-Thalasso_044_FA_BD-800x780.jpg",
+        "image": "shopify://shop_images/Sofitel-Quiberon-Thalasso_044_FA_BD-800x780.webp",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "lg",
@@ -214,7 +214,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/les_roches_blanches.png",
+        "image": "shopify://shop_images/les_roches_blanches.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
@@ -263,7 +263,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Villa_Gallici.jpg",
+        "image": "shopify://shop_images/Villa_Gallici.webp",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "lg",
@@ -312,7 +312,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/thalazur_bandol_ile_rousse_SITE_INTERNET.jpg",
+        "image": "shopify://shop_images/thalazur_bandol_ile_rousse_SITE_INTERNET.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
@@ -361,7 +361,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/la_grande_motte_5.jpg",
+        "image": "shopify://shop_images/la_grande_motte_5.webp",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "lg",
@@ -374,7 +374,7 @@
         "image_with_text_q4JJEc": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/cote_ouest.png",
+            "image": "shopify://shop_images/cote_ouest.webp",
             "title": "<a href=\"https://hotel-coteouest.com/fr/\" title=\"https://hotel-coteouest.com/fr/\">Côte Ouest</a>",
             "heading_tag": "h3",
             "content": "<p>Les sables d'Olonne</p>",
@@ -385,7 +385,7 @@
         "image_with_text_t4HWE4": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/spa_o_de_mer.png",
+            "image": "shopify://shop_images/spa_o_de_mer.webp",
             "title": "<a href=\"https://www.spaodemer.com/\" title=\"https://www.spaodemer.com/\">Spa Ô de mer</a>",
             "heading_tag": "h3",
             "content": "<p>La Ciotat</p>",
@@ -396,7 +396,7 @@
         "image_with_text_YzhQRh": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/sequoia_redwood.png",
+            "image": "shopify://shop_images/sequoia_redwood.webp",
             "title": "<a href=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\" title=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\">Séquoia Redwood</a>",
             "heading_tag": "h3",
             "content": "<p>Vals-les-Bains</p>",
@@ -407,7 +407,7 @@
         "image_with_text_AibhYE": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/auspa.png",
+            "image": "shopify://shop_images/auspa.webp",
             "title": "<a href=\"https://www.auspa.fr/\" title=\"https://www.auspa.fr/\">AuSpa</a>",
             "heading_tag": "h3",
             "content": "<p>La Rochelle</p>",
@@ -442,7 +442,6 @@
         "image_with_text_wzL6Qm": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/Domaine_de_Saint_Endr_ol.png",
             "title": "<a href=\"https://st-endreol.com/\" title=\"https://st-endreol.com/\">Domaine de Saint Endréol</a>",
             "heading_tag": "h3",
             "content": "<p>La Motte</p>",
@@ -453,7 +452,6 @@
         "image_with_text_TpEijp": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/spa_l_odyssee.png",
             "title": "<a href=\"https://www.spaodyssee.com/\" title=\"https://www.spaodyssee.com/\">Spa l'Odyssée</a>",
             "heading_tag": "h3",
             "content": "<p>Aix-les-Bains</p>",
@@ -464,7 +462,6 @@
         "image_with_text_8K3qf3": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/balnea.png",
             "title": "<a href=\"https://www.balnea.fr/\" title=\"https://www.balnea.fr/\">Balnéa</a>",
             "heading_tag": "h3",
             "content": "<p>Loudenvielle</p>",
@@ -475,7 +472,6 @@
         "image_with_text_KG7ypg": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/reve_de_spa.png",
             "title": "<a href=\"https://www.reve-de-sable.fr/\" title=\"https://www.reve-de-sable.fr/\">Rêve de Spa</a>",
             "heading_tag": "h3",
             "content": "<p>Charnay-lès-Mâcon</p>",
