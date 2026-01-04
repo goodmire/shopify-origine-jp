@@ -442,6 +442,7 @@
         "image_with_text_wzL6Qm": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/Domaine_de_Saint_Endr_ol.webp",
             "title": "<a href=\"https://st-endreol.com/\" title=\"https://st-endreol.com/\">Domaine de Saint Endréol</a>",
             "heading_tag": "h3",
             "content": "<p>La Motte</p>",
@@ -452,6 +453,7 @@
         "image_with_text_TpEijp": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/spa_l_odyssee.webp",
             "title": "<a href=\"https://www.spaodyssee.com/\" title=\"https://www.spaodyssee.com/\">Spa l'Odyssée</a>",
             "heading_tag": "h3",
             "content": "<p>Aix-les-Bains</p>",
@@ -462,6 +464,7 @@
         "image_with_text_8K3qf3": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/balnea.webp",
             "title": "<a href=\"https://www.balnea.fr/\" title=\"https://www.balnea.fr/\">Balnéa</a>",
             "heading_tag": "h3",
             "content": "<p>Loudenvielle</p>",
@@ -472,6 +475,7 @@
         "image_with_text_KG7ypg": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/reve_de_spa.webp",
             "title": "<a href=\"https://www.reve-de-sable.fr/\" title=\"https://www.reve-de-sable.fr/\">Rêve de Spa</a>",
             "heading_tag": "h3",
             "content": "<p>Charnay-lès-Mâcon</p>",
