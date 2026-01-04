@@ -78,7 +78,15 @@
           "type": "links",
           "settings": {
             "menu": "footer",
-            "show_menu_title": false,
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_wqHFpm": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
             "menu_title": ""
           }
         },
@@ -93,6 +101,7 @@
       },
       "block_order": [
         "links",
+        "links_wqHFpm",
         "text"
       ],
       "settings": {
