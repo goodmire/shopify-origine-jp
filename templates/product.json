@@ -173,6 +173,36 @@
         "content": ""
       }
     },
+    "image_with_text_rj6MzM": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_mPrhDU": {
+          "type": "subheading",
+          "settings": {
+            "text": "製品概要"
+          }
+        },
+        "richtext_XWzi8k": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>{{ product.metafields.custom.en_une_phrase.value }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_mPrhDU",
+        "richtext_XWzi8k"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -195,6 +225,7 @@
     "main",
     "rich_text_M3MeiG",
     "faq_qRB9cc",
+    "image_with_text_rj6MzM",
     "related-products"
   ]
 }
