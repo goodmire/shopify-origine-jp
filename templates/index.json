@@ -204,7 +204,7 @@
           "type": "button",
           "settings": {
             "style": "outline",
-            "text": "化粧品というアートに出会う",
+            "text": "詳細を見る",
             "url": "shopify://pages/lart-cosmetique-par-origine",
             "background": "",
             "text_color": ""
@@ -254,8 +254,8 @@
           "type": "button",
           "settings": {
             "style": "outline",
-            "text": "Suivre Emmanuel sur Linked In",
-            "url": "https://www.linkedin.com/in/emmanuel-frizac-2344718a",
+            "text": "詳細を見る",
+            "url": "shopify://pages/nos-valeurs",
             "background": "",
             "text_color": ""
           }
