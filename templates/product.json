@@ -96,6 +96,43 @@
         "max_image_zoom_level": 2
       }
     },
+    "rich_text_M3MeiG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_nT9wep": {
+          "type": "subheading",
+          "settings": {
+            "text": "ナチュラル処方"
+          }
+        },
+        "heading_3i3TwD": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>天然由来成分</strong><strong>{{ product.metafields.custom.naturalit.value }}</strong><strong>配合</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_xL8AYY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>{{ product.metafields.custom.description_courte | metafield_tag }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nT9wep",
+        "heading_3i3TwD",
+        "richtext_xL8AYY"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-3b9b44a8-700a-4872-8ef9-755afe93566b",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "faq_qRB9cc": {
       "type": "faq",
       "blocks": {
@@ -156,6 +193,7 @@
   },
   "order": [
     "main",
+    "rich_text_M3MeiG",
     "faq_qRB9cc",
     "related-products"
   ]
