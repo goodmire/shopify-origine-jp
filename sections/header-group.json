@@ -19,25 +19,12 @@
           "settings": {
             "text": "Origine が五感を呼び覚まします"
           }
-        },
-        "message-1": {
-          "type": "message",
-          "settings": {
-            "text": "Livraison offerte dès 50€ d'achat"
-          }
-        },
-        "message_8iX9Jh": {
-          "type": "message",
-          "settings": {
-            "text": "ご注文ごとにサンプルをプレゼント"
-          }
         }
       },
       "block_order": [
-        "message_EY8PTh",
-        "message-1",
-        "message_8iX9Jh"
+        "message_EY8PTh"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1ec0c737-ca1e-4ebe-aea7-ebc041c69a9a",
         "enable_sticky": false,
