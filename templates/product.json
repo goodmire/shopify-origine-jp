@@ -96,6 +96,46 @@
         "max_image_zoom_level": 2
       }
     },
+    "faq_qRB9cc": {
+      "type": "faq",
+      "blocks": {
+        "question_jKjWP8": {
+          "type": "question",
+          "settings": {
+            "question": "香りの特徴",
+            "answer": "<p>トップノート：{{ product.metafields.custom.note_de_tete.value }}<br/>ミドルノート：{{ product.metafields.custom.note_de_coeur.value }}<br/>ベースノート：{{ product.metafields.custom.note_de_fond.value }}</p>"
+          }
+        },
+        "question_MPqjFh": {
+          "type": "question",
+          "settings": {
+            "question": "全配合成分",
+            "answer": "<p>{{ product.metafields.custom.inci | metafield_tag }}</p>"
+          }
+        },
+        "question_9hfjXt": {
+          "type": "question",
+          "settings": {
+            "question": "おすすめポイント",
+            "answer": "<p>{{ product.metafields.custom.description_longue | metafield_tag }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_jKjWP8",
+        "question_MPqjFh",
+        "question_9hfjXt"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "製品について",
+        "content": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -116,6 +156,7 @@
   },
   "order": [
     "main",
+    "faq_qRB9cc",
     "related-products"
   ]
 }
