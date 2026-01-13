@@ -43,7 +43,8 @@
     "social_youtube": "https://www.youtube.com/@Originecosmetiques",
     "social_tiktok": "https://www.tiktok.com/@origine_cosmetiques",
     "social_linkedin": "https://www.linkedin.com/company/origine-lart-cosmetique",
-    "favicon": "shopify://shop_images/favicon_038c4e85-06c2-46c0-87e7-a34753001bd9.png",
+    "favicon": "shopify://shop_images/favicon.webp",
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -133,8 +134,7 @@
           "circle_button_icon": "#1c1c1c"
         }
       }
-    },
-    "content_for_index": []
+    }
   },
   "presets": {
     "Prestige": {

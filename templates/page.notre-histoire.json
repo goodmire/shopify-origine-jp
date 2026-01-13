@@ -80,6 +80,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/0011-1339162617820134707.png",
+            "mobile_image": "shopify://shop_images/0011-1339162617820134707.png",
             "label": "2013",
             "subheading": "2013",
             "title": "フェイシャルケアの幕開け",
