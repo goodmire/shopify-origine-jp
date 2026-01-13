@@ -264,7 +264,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "les-soins-visage",
+            "collection": "les-soins-corps",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
