@@ -15,28 +15,28 @@
         "category": {
           "type": "category",
           "settings": {
-            "title": "Order"
+            "title": "ご注文"
           }
         },
         "question-1": {
           "type": "question",
           "settings": {
-            "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "question": "海外への発送は可能ですか？",
+            "answer": "<p>はい、世界中へ発送しています。送料はチェックアウト時に加算されます。年間を通じて割引やキャンペーンを実施していますので、特別なオファーをお見逃しなく。</p>"
           }
         },
         "question-2": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "注文した商品はどのくらいで届きますか？",
+            "answer": "<p>お届け先により異なります。国内で処理されたご注文は5〜7営業日でお届けします。海外配送は7〜16日ほどかかる場合があります。詳細は注文確認メールをご確認ください。</p>"
           }
         },
         "question-3": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "ほかにご質問はありますか？",
+            "answer": "<p>お問い合わせページからご連絡ください。喜んでサポートいたします。</p>"
           }
         }
       },

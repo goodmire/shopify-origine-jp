@@ -30,13 +30,13 @@
         "subheading_YTcBXV": {
           "type": "subheading",
           "settings": {
-            "text": "Origine s'engage"
+            "text": "Origineの取り組み"
           }
         },
         "heading_Rwkaqd": {
           "type": "heading",
           "settings": {
-            "text": "Charte sociétale et environnementale",
+            "text": "社会・環境憲章",
             "heading_tag": "h1"
           }
         },
@@ -44,7 +44,7 @@
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "Télécharger la brochure",
+            "text": "資料をダウンロード",
             "url": "https://cdn.shopify.com/s/files/1/0882/4340/5128/files/Les_engagements_Origine_1.pdf?v=1756978458",
             "background": "",
             "text_color": ""
@@ -80,14 +80,14 @@
         "heading_QzraQe": {
           "type": "heading",
           "settings": {
-            "text": "La charte de formulation Origine",
+            "text": "Origineの処方指針",
             "heading_tag": "h1"
           }
         },
         "richtext_TxUq3m": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Contribuer à <strong>protéger la planète</strong> et <strong>préserver ses ressources</strong> sont l’une de nos priorités et nous y attachons une attention particulière tout au long de notre chaîne de valeur : de la sélection des actifs d’origine naturelle à l’emballage, en passant par la formulation. </p><p>En 2018, Origine a décidé de reformuler ses produits en <strong>substituant les ingrédients controversés</strong> comme l’EDTA, les silicones et le phénoxyethanol.</p>"
+            "content": "<p><strong>地球を守り</strong>、<strong>資源を保全する</strong>ことは私たちの最優先事項のひとつです。自然由来成分の選定から処方、パッケージに至るまで、バリューチェーン全体で細心の注意を払っています。 </p><p>2018年、OrigineはEDTA、シリコーン、フェノキシエタノールなどの<strong>懸念成分を代替</strong>する処方改革を決定しました。</p>"
           }
         }
       },
@@ -118,14 +118,14 @@
         "heading_AfWgWc": {
           "type": "heading",
           "settings": {
-            "text": "L'ESAT : travailleurs adultes handicapés",
+            "text": "ESAT：障がいのある成人の就労支援",
             "heading_tag": "h1"
           }
         },
         "richtext_E9GeMX": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Transmettre ce n’est pas remplir un vase, c’est allumer un feu, disait Montaigne. Depuis quelques années, <strong>Origine coopère avec l’ESAT voisin</strong>. Ce partenariat a du sens. Il donne une activité salariée à des adultes handicapés.</p><p>Au travers de cela, une responsabilité, un accomplissement par le travail et une rémunération. Oliver, Julie, Christophe...tous font partie de notre projet d’entreprise. <strong>Tous coopèrent à faire d’Origine ce qu’elle est</strong>. </p><p>Cette équipe nous aide au quotidien, dans un échange humain. Travail contre considération. Implication contre formation. Confiance contre confiance. </p>"
+            "content": "<p>モンテーニュは「伝えるとは器を満たすことではなく、火を灯すこと」と語りました。数年前から、<strong>Origineは近隣のESATと協働</strong>しています。このパートナーシップには確かな意味があります。障がいのある成人に雇用を提供することにつながるからです。</p><p>そこには責任、仕事を通じた達成感、そして報酬があります。オリヴィエ、ジュリー、クリストフ……皆が私たちの企業プロジェクトの一員です。<strong>全員がOrigineをOrigineたらしめるために力を合わせています</strong>。</p><p>このチームは日々、温かな交流の中で私たちを支えてくれます。仕事と敬意、関与と学び、信頼と信頼。 </p>"
           }
         }
       },
@@ -156,14 +156,14 @@
         "heading_3LUN4m": {
           "type": "heading",
           "settings": {
-            "text": "La vie chez Origine",
+            "text": "Origineで働くということ",
             "heading_tag": "h1"
           }
         },
         "richtext_nxwkai": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Origine doit tout aux mains qui l’ont façonnée. Des femmes et des hommes, au cours des 12 dernières années, ont tour à tour offert leur cœur. <strong>Nos collaboratrices et collaborateurs sont notre force vitale</strong>. En retour, Origine s’engage auprès d’eux. Ainsi, chaque naissance est célébrée. Père ou mère, se voit offrir une «prime de bonheur». Au-delà de cette initiative, être collaborateur d’Origine signifie surtout être <strong>acteur d’une mission</strong>.</p>"
+            "content": "<p>Origineは、それを形づくってきた手に支えられてきました。過去12年間、女性と男性が心を込めて関わってきたのです。<strong>私たちの仲間は生命力そのもの</strong>。だからこそOrigineは彼らに寄り添います。新しい命の誕生は祝福され、父母には「幸せのボーナス」が贈られます。それ以上に、Origineの一員であることは、<strong>使命の担い手であること</strong>を意味します。</p>"
           }
         }
       },
@@ -194,14 +194,14 @@
         "heading_DDxtrb": {
           "type": "heading",
           "settings": {
-            "text": "La Fondation de la Mer",
+            "text": "ラ・フォンダシオン・ド・ラ・メール",
             "heading_tag": "h1"
           }
         },
         "richtext_jb9mqV": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Parce que<strong> donner du sens à notre mission</strong> est une priorité, Origine s’engage auprès des causes qui lui tiennent à coeur.</p><p>Née dans la Méditerranée, Origine est fière d’être partenaire de la <strong>Fondation de la Mer</strong>. Créée en 2015, la Fondation de la Mer met en œuvre des programmes pour protéger la biodiversité marine, lutter contre les pollutions en mer, soutenir la recherche, encourager l’innovation, informer et sensibiliser.</p>"
+            "content": "<p><strong>使命に意味を与えること</strong>は最優先事項です。Origineは心から共鳴する活動にコミットしています。</p><p>地中海で生まれたOrigineは、<strong>ラ・フォンダシオン・ド・ラ・メール</strong>のパートナーであることを誇りに思っています。2015年に設立された同財団は、海洋生物多様性の保護、海洋汚染の防止、研究支援、イノベーションの促進、情報発信と啓発を目的としたプログラムを実施しています。</p>"
           }
         }
       },
@@ -232,14 +232,14 @@
         "heading_FQ9MUH": {
           "type": "heading",
           "settings": {
-            "text": "Les gestes qui comptent",
+            "text": "大切な小さな行動",
             "heading_tag": "h1"
           }
         },
         "richtext_dYgDFX": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>L’engagement écologique</strong> est un cheminement vers une ambition globale. La bienveillance, la réflexion, la cohérence doivent guider chacun de nos pas. </p><p>Nous n’entendons pas être un acteur majeur d’une lutte qui va bien au-delà de nous mais nous avons le pouvoir d’agir. A notre niveau, en cohérence avec nos croyances. Agir simplement, par des <strong>gestes qui comptent</strong>.</p>"
+            "content": "<p><strong>環境へのコミットメント</strong>は、より大きな志へ向かう道のりです。思いやり、熟慮、一貫性が、私たちの一歩一歩を導きます。</p><p>私たちは、この大きな取り組みの主役であろうとは考えていません。しかし、行動する力は持っています。信念と整合する範囲で、できることを丁寧に。<strong>大切な小さな行動</strong>を積み重ねていきます。</p>"
           }
         }
       },
@@ -270,7 +270,7 @@
         "heading_DUDn48": {
           "type": "heading",
           "settings": {
-            "text": "“ Parce que notre ADN est la cosmétologie authentique, façonnée par l’artisanat, la passion et le travail, nous connaissons nos produits et nous fabriquons chacun d’entre eux. Nous le faisons pour vous et cela suffit à nous rendre fiers. ”",
+            "text": "「私たちのDNAは、職人技、情熱、そして仕事によって形づくられた本物のコスメティックです。私たちは自ら製品を知り、その一つひとつを製造しています。あなたのために行い、それが私たちの誇りです。」",
             "heading_tag": "h4"
           }
         },

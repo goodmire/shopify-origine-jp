@@ -30,14 +30,14 @@
         "heading_XyYdjX": {
           "type": "heading",
           "settings": {
-            "text": "L'art cosmétique, par Origine",
+            "text": "Origineが提唱するコスメティック・アート",
             "heading_tag": "h1"
           }
         },
         "richtext_iAarPQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Initiée par Origine, l'art cosmétique est une approche <strong>réfléchie et sincère</strong> de l’artisanat cosmétique.</p><p>Dans son intention, dans sa formulation, dans sa présentation, dans son coeur, Origine est <strong>authentique</strong> et s’engage depuis 2011 sur sa promesse. </p><p><strong>Par notre ambition et notre passion, Origine éveille vos sens.</strong></p>"
+            "content": "<p>Origineが提唱するコスメティック・アートは、化粧品職人の技への<strong>思索的で誠実</strong>なアプローチです。</p><p>意図、処方、表現、そして心の在り方において、Origineは<strong>真正</strong>であり、2011年以来その約束にコミットしています。 </p><p><strong>私たちの志と情熱によって、Origineは五感を目覚めさせます。</strong></p>"
           }
         }
       },
@@ -89,7 +89,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "<p>Des principes actifs, issus d’une extraction végétale dont <strong>nous maîtrisons chaque aspects</strong>. Une formulation raisonnée, offerte par la nature. Voilà ce en quoi nous croyons. Voila ce à quoi nous travaillons.</p>",
+        "content": "<p><strong>あらゆる側面を管理する</strong>植物抽出由来の有用成分。自然が授ける理性的な処方。これこそ私たちの信念であり、そのために日々取り組んでいます。</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -110,7 +110,7 @@
         "heading_DUDn48": {
           "type": "heading",
           "settings": {
-            "text": "“ Parce que notre ADN est la cosmétologie authentique, façonnée par l’artisanat, la passion et le travail, nous connaissons nos produits et nous fabriquons chacun d’entre eux. Nous le faisons pour vous et cela suffit à nous rendre fiers. ”",
+            "text": "「私たちのDNAは、職人技、情熱、そして仕事によって形づくられた本物のコスメティックです。私たちは自ら製品を知り、その一つひとつを製造しています。あなたのために行い、それが私たちの誇りです。」",
             "heading_tag": "h4"
           }
         },

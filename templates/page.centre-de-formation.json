@@ -24,14 +24,14 @@
         "heading_FLFbAY": {
           "type": "heading",
           "settings": {
-            "text": "centre de formation",
+            "text": "トレーニングセンター",
             "heading_tag": "h6"
           }
         },
         "richtext_jbzdFX": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>Les formations Origine</h1>"
+            "content": "<h1>Origineの研修</h1>"
           }
         }
       },
@@ -72,7 +72,7 @@
         "richtext_GbcqTR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Les protocoles de soin Origine ont été <strong>élaborés en partenariat avec des experts en soins corps et visage</strong>. Associés à des produits naturels et sensoriels, hautement concentrés en actifs, les nouveaux protocoles de soin Origine offrent une alliance parfaite entre <strong>plaisir </strong>et <strong>efficacité</strong>.</p>"
+            "content": "<p>Origineのケアプロトコルは、<strong>ボディとフェイスの専門家と連携して開発</strong>されました。自然で感性に響く製品と、有用成分を高濃度に配合した処方を組み合わせ、Origineの新しいケアプロトコルは<strong>心地よさ</strong>と<strong>効果</strong>の理想的なバランスを実現します。</p>"
           }
         }
       },
@@ -101,14 +101,14 @@
         "heading_QzraQe": {
           "type": "heading",
           "settings": {
-            "text": "L'académie Origine",
+            "text": "Origineアカデミー",
             "heading_tag": "h1"
           }
         },
         "richtext_TxUq3m": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Forte de son expérience dans l’univers du Spa, ORIGINE intègre un centre de formation dédié aux soins signatures qui font sa réputation.</p><p>Quelque soit votre statut, les formations peuvent être prises en charge par l’intermédiaire de votre OPCO ou le FAFCEA.</p><p>Sublimez les rituels ORIGINE et découvrez les manœuvres spécifiques à chaque massage.</p><p><strong>Chaque formation est pensée et créée pour sa parfaite synergie avec les produits de soin ORIGINE.</strong></p>"
+            "content": "<p>スパの世界で培った経験を生かし、ORIGINEはその名声を支えるシグネチャーケアに特化した研修センターを備えています。</p><p>ご自身のステータスにかかわらず、研修はOPCOまたはFAFCEAを通じて費用負担が可能です。</p><p>ORIGINEのリチュアルを磨き上げ、各マッサージに特化した手技を学べます。</p><p><strong>すべての研修は、ORIGINEのケア製品との完璧な相乗効果を目指して設計されています。</strong></p>"
           }
         }
       },
@@ -139,14 +139,14 @@
         "heading_6GC9Nr": {
           "type": "heading",
           "settings": {
-            "text": "Les protocoles Origine",
+            "text": "Origineのプロトコル",
             "heading_tag": "h1"
           }
         },
         "richtext_xhXxD6": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Découvrez les <strong>soins signature</strong> Origine pour le corps et le visage.</p><p>Origine propose des soins complets du visage adaptés aux <strong>besoins de chaque peau</strong>. Chaque soin est associé à des produits hautement<strong> concentrés en actifs</strong> pour une efficacité optimale.</p><p>Découvrez les protocoles corps <strong>personnalisés et personnalisables</strong> afin de répondre à toutes les envies de vos clients. Origine propose trois massages signature : un relaxant, un dynamisant et un sportif.</p>"
+            "content": "<p>ボディとフェイスのためのOrigine<strong>シグネチャーケア</strong>をご体験ください。</p><p>Origineは、<strong>肌のニーズに合わせた</strong>総合的なフェイシャルケアを提供します。各ケアには<strong>有用成分を高濃度に配合</strong>した製品を組み合わせ、最適な効果を目指します。</p><p>お客様のあらゆる希望に応える<strong>パーソナライズ可能な</strong>ボディプロトコルをご用意。Origineのシグネチャーマッサージは、リラクゼーション、活力、スポーツの3種類です。</p>"
           }
         }
       },
@@ -179,29 +179,29 @@
         "question_xTH7Wx": {
           "type": "question",
           "settings": {
-            "question": "Où sont dispensées les formations ?",
-            "answer": "<p>Les formations ont lieu au siège d’Origine, à Gémenos, à proximité d’Aix-en-Provence et de Marseille.</p><p>Origine a dédié un local à l’accueil de ses clients, afin que vous puissiez découvrir les coulisses de la marque (laboratoire de R&D, salle de formation, studio photos et vidéos…).</p>"
+            "question": "研修はどこで行われますか？",
+            "answer": "<p>研修は、エクス＝アン＝プロヴァンスとマルセイユの近く、ジェモノにあるOrigine本社で行われます。</p><p>Origineはお客様をお迎えする専用スペースを設けており、ブランドの舞台裏（R&Dラボ、研修室、写真・映像スタジオなど）をご覧いただけます。</p>"
           }
         },
         "question_m7RKX9": {
           "type": "question",
           "settings": {
-            "question": "Formation & handicap",
-            "answer": "<p>Les travailleurs en situation de handicap peuvent solliciter l’AGEFIPH (Fonds pour l’insertion professionnelle des personnes handicapées). Nous vous invitons à nous contacter pour l’accessibilité aux personnes en situation de handicap.</p>"
+            "question": "研修とアクセシビリティ",
+            "answer": "<p>障がいのある方はAGEFIPH（障がい者の職業的自立支援基金）に申請できます。アクセシビリティに関するご相談はお問い合わせください。</p>"
           }
         },
         "question_j6rUJ7": {
           "type": "question",
           "settings": {
-            "question": "Quels sont les supports de formation ?",
-            "answer": "<p>Un livret avec le protocole détaillé est fourni à l’issue de la formation.</p><p>Une vidéo du protocole est également proposée à la suite de la formation. Elle vous permettra de travailler au mieux vos acquis.</p>"
+            "question": "研修資料は何がありますか？",
+            "answer": "<p>研修後に、詳細なプロトコルをまとめた冊子をお渡しします。</p><p>研修後にはプロトコルの動画もご提供します。習得内容の復習にお役立てください。</p>"
           }
         },
         "question_BGqrgV": {
           "type": "question",
           "settings": {
-            "question": "Quel est le coût des formations ?",
-            "answer": "<p>Les formations Origine sont prises en charge par l’organisme de formation dont vous dépendez (OPCO ou Fafcea) avec un coût de 200€ par jour et par personne.</p><p>Pour les personnes débutant une nouvelle activité et n’ayant pas encore cotisé pendant un an, le coût de la formation est réduit à 100€ la journée.</p>"
+            "question": "研修費用はいくらですか？",
+            "answer": "<p>Origineの研修は、所属する研修機関（OPCOまたはFafcea）が負担し、費用は1日1人あたり200ユーロです。</p><p>新たに活動を始めたばかりで、まだ1年間の拠出がない方は、研修費用が1日100ユーロに減額されます。</p>"
           }
         }
       },
@@ -217,7 +217,7 @@
         "separate_section_with_border": true,
         "show_categories": false,
         "subheading": "",
-        "title": "Questions fréquentes",
+        "title": "よくある質問",
         "content": ""
       }
     }

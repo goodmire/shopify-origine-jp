@@ -24,20 +24,20 @@
         "subheading_GpXtAt": {
           "type": "subheading",
           "settings": {
-            "text": "Origine, un monde de parfums"
+            "text": "Origine、香りの世界へ"
           }
         },
         "heading_T4EUm6": {
           "type": "heading",
           "settings": {
-            "text": "Choisir sa fragrance",
+            "text": "香りを選ぶ",
             "heading_tag": "h2"
           }
         },
         "richtext_f7XjXU": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Parce que chaque peau et chaque personnalité méritent une senteur unique, nous vous guidons dans le choix de votre parfum idéal. Que vous recherchiez une fragrance florale, boisée ou gourmande, laissez-vous inspirer !</p>"
+            "content": "<p>肌も個性も一人ひとり異なるからこそ、香りも唯一無二であるべき。理想のフレグランス選びを私たちがご案内します。フローラル、ウッディ、グルマン——その瞬間に導かれる香りに出会ってください。</p>"
           }
         }
       },
@@ -68,7 +68,7 @@
         "heading_DUDn48": {
           "type": "heading",
           "settings": {
-            "text": "Les notes de nos parfums sont l'expression de notre passion.",
+            "text": "私たちの香調は、情熱の表現です。",
             "heading_tag": "h4"
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "collection": "famille-pf-hesperidees",
             "products_count": 8,
-            "title": "<strong>Les Hespéridées</strong>",
+            "title": "<strong>ヘスペリデ</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -118,7 +118,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Notes Fraîches et pétillantes (Citron, Bergamote, Orange)"
+        "subheading": "フレッシュで弾けるノート（レモン、ベルガモット、オレンジ）"
       }
     },
     "featured_collections_7y9Xjw": {
@@ -129,7 +129,7 @@
           "settings": {
             "collection": "famille-pf-orientaux",
             "products_count": 8,
-            "title": "<strong>Les Orientaux</strong>",
+            "title": "<strong>オリエンタル</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -147,7 +147,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Notes sensuelles et envoûtantes (Vanille, Encens, Epices)"
+        "subheading": "官能的で魅惑的なノート（バニラ、インセンス、スパイス）"
       }
     },
     "featured_collections_NwaUi4": {
@@ -158,7 +158,7 @@
           "settings": {
             "collection": "famille-pf-florales",
             "products_count": 8,
-            "title": "<strong>Les Florales</strong>",
+            "title": "<strong>フローラル</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -176,7 +176,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Notes douces et féminines (Rose, Jasmin, Muguet..)"
+        "subheading": "やさしくフェミニンなノート（ローズ、ジャスミン、スズランなど）"
       }
     },
     "featured_collections_yUzy9R": {
@@ -187,7 +187,7 @@
           "settings": {
             "collection": "famille-pf-tropicaux",
             "products_count": 8,
-            "title": "<strong>Les Tropicaux</strong>",
+            "title": "<strong>トロピカル</strong>",
             "link_url": "",
             "link_text": ""
           }
@@ -205,7 +205,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Notes exotiques et fleuries"
+        "subheading": "エキゾチックでフローラルなノート"
       }
     }
   },
