@@ -194,7 +194,7 @@
           "type": "question",
           "settings": {
             "question": "香りの特徴",
-            "answer": "<p>トップノート：{{ product.metafields.custom.note_de_tete.value }}<br/>ミドルノート：{{ product.metafields.custom.note_de_coeur.value }}<br/>ベースノート：{{ product.metafields.custom.note_de_fond.value }}</p>"
+            "answer": "<p>{{ product.metafields.custom.note_de_tete.value }}<br/>{{ product.metafields.custom.note_de_coeur.value }}<br/>{{ product.metafields.custom.note_de_fond.value }}</p>"
           }
         },
         "question_MPqjFh": {
