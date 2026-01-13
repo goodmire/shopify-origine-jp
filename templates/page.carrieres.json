@@ -24,14 +24,14 @@
         "heading_EEpcGH": {
           "type": "heading",
           "settings": {
-            "text": "Rejoignez-nous",
+            "text": "私たちと一緒に",
             "heading_tag": "h5"
           }
         },
         "richtext_hHBghP": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>Origine recrute</h1>"
+            "content": "<h1>Origine採用情報</h1>"
           }
         }
       },
@@ -72,7 +72,7 @@
         "richtext_EGjtiL": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Chez <strong>Origine</strong>, nous avons une mission claire : allier expertise, artisanat et naturalité pour offrir des soins dermo-cosmétiques d'exception. Si vous partagez notre passion pour l’innovation, la cosmétique naturelle et le bien-être, nous serions ravis de vous compter parmi nous !</p>"
+            "content": "<p><strong>Origine</strong>の使命は明確です。専門性、職人技、そして自然性を融合し、卓越したダーモコスメを提供すること。革新、ナチュラルコスメ、ウェルビーイングへの情熱を共有できる方を、心より歓迎します。</p>"
           }
         }
       },
@@ -123,8 +123,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "",
-        "title": "Sales Representative (M/F) - Permanent Contract 13420 Gémenos",
-        "content": "<p>We are currently recruiting a <strong>Sales Representative for an Institute/SPA</strong> based in Gémenos (13420). You will be responsible for monitoring and developing our clientele, training partners, and managing the network.</p><p>This primarily sedentary position includes regular customer contact, participation in trade shows, and opportunities for attractive sales challenges. If you're looking to work in a stimulating environment and be part of a growing brand, apply now.</p>",
+        "title": "セールス・レプレゼンタティブ（男女問わず）- 正社員 13420 ジェモノ",
+        "content": "<p>ジェモノ（13420）を拠点とする<strong>サロン／スパ向けセールス・レプレゼンタティブ</strong>を募集しています。顧客のフォローと開拓、パートナーの研修、ネットワークの運営を担当します。</p><p>主に内勤ですが、定期的な顧客対応や展示会への参加、魅力的な販売目標への挑戦も含まれます。成長するブランドの一員として、刺激的な環境で働きたい方はぜひご応募ください。</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -167,8 +167,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "",
-        "title": "Assistant Product Manager Internship - 13420 Gémenos",
-        "content": "<p>We're currently offering an internship as<strong>an Assistant Product Manager</strong>in Gémenos, where you'll be actively involved in the launches and promotion strategies for our product lines. Looking for a challenge? Submit your application and join us on this exciting adventure!</p>",
+        "title": "アシスタント・プロダクトマネージャー インターンシップ - 13420 ジェモノ",
+        "content": "<p>ジェモノにて、<strong>アシスタント・プロダクトマネージャー</strong>のインターンシップを募集しています。製品ラインのローンチやプロモーション戦略に主体的に関わっていただきます。新しい挑戦を求める方は、ぜひご応募ください。</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -183,8 +183,8 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "<strong>Candidature</strong>",
-        "content": "<p>Vous pouvez nous faire parvenir votre candidature à une offre ou de manière spontanée.<br/>Merci de préciser l'offre à laquelle vous postulez.</p>"
+        "title": "<strong>応募</strong>",
+        "content": "<p>募集枠への応募、または自主応募のいずれでも受け付けています。<br/>ご応募の際は、希望する募集枠をご明記ください。</p>"
       }
     }
   },

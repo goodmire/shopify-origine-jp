@@ -24,14 +24,14 @@
         "heading_DP3Pqr": {
           "type": "heading",
           "settings": {
-            "text": "Spas, instituts de beauté, hôtels",
+            "text": "スパ、ビューティーサロン、ホテル",
             "heading_tag": "h5"
           }
         },
         "richtext_UgT4Qr": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>Nos partenaires</h1>"
+            "content": "<h1>私たちのパートナー</h1>"
           }
         }
       },
@@ -59,7 +59,7 @@
         "richtext_HP8JQr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>En France et à l'étranger, Origine crée une relation privilégiée avec chacun des ses clients, par son authenticité et son engagement. Découvrez quelques partenaires de prestige, qui font d'Origine une marque d'excellence.</p>"
+            "content": "<p>フランス国内外で、Origineは真摯さと揺るぎない姿勢により、お客様一人ひとりと特別な関係を築いています。Origineの卓越性を体現する、名門パートナーの一部をご紹介します。</p>"
           }
         }
       },
@@ -93,14 +93,14 @@
         "richtext_m77ATa": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Niché au sein d’une somptueuse bastide provençale, dans le Var, Terre Blanche Spa associe les méthodes de thérapies traditionnelles et modernes, des technologies et cosmétologies innovantes à l’aromathérapie propre à la Provence.</p>"
+            "content": "<p>ヴァール県の壮麗なプロヴァンスの館に佇むTerre Blanche Spaは、伝統と現代のセラピー、革新的なテクノロジーとコスメティクス、そしてプロヴァンスならではのアロマテラピーを融合させています。</p>"
           }
         },
         "button_UmVaBR": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳しく見る",
             "url": "https://www.terre-blanche.com/",
             "background": "",
             "text_color": ""
@@ -142,14 +142,14 @@
         "richtext_UNtWTV": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Ce havre de paix abrite un océan d'expertises et de bien-être en parfaite harmonie avec la nature environnante. Au coeur du resort, l'Institut de Thalassothérapie & Bien-être vous attend pour une escale détente inoubliable.</p>"
+            "content": "<p>自然と調和するこの安らぎの地には、豊かな専門性とウェルビーイングが息づいています。リゾートの中心にあるタラソテラピー＆ウェルビーイングの施設で、忘れがたい癒やしのひとときをお過ごしください。</p>"
           }
         },
         "button_8Y7hHP": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳しく見る",
             "url": "https://www.sofitel-quiberon-thalassa.com/",
             "background": "",
             "text_color": ""
@@ -191,14 +191,14 @@
         "richtext_hAkj3K": {
           "type": "richtext",
           "settings": {
-            "content": "<p>L'hôtel Les Roches Blanches à Cassis offre l'élégance à la française dans un paysage naturel sans équivalent, pour des moments inoubliables.</p>"
+            "content": "<p>カシにあるホテル・レ・ロッシュ・ブランシュは、比類なき自然景観の中でフレンチエレガンスを届け、忘れられない時間を演出します。</p>"
           }
         },
         "button_f7prtz": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳しく見る",
             "url": "https://www.roches-blanches-cassis.com/",
             "background": "",
             "text_color": ""
@@ -240,14 +240,14 @@
         "richtext_Rnnf9Q": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Vivez une expérience unique au sein d'une bastide Aixoise datant du 18 ème siècle située dans le centre-ville d’Aix en Provence. Offrez-vous une parenthèse de douceur et de sérénité.</p>"
+            "content": "<p>エクス＝アン＝プロヴァンス中心部に佇む18世紀の館で、唯一無二の体験を。やさしさと静けさに満ちたひとときをお楽しみください。</p>"
           }
         },
         "button_mteGYW": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳しく見る",
             "url": "https://www.villagallici.com/fr/",
             "background": "",
             "text_color": ""
@@ -289,14 +289,14 @@
         "richtext_U4ibTd": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Prenez le temps de vous faire plaisir et de vous détendre dans un hôtel spa d'exception et profitez-en pour y découvrir tous les secrets de la région du Var dans le sud de la France.</p>"
+            "content": "<p>特別なホテルスパで自分を労わり、心ほどける時間を。フランス南部ヴァール地方の魅力に触れる旅もお楽しみください。</p>"
           }
         },
         "button_hq7Mk3": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳しく見る",
             "url": "https://www.thalazur.fr/bandol/hotel/",
             "background": "",
             "text_color": ""
@@ -338,14 +338,14 @@
         "richtext_U4gARh": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Située en petite Camargue dans un écrin de verdure, la Thalasso & Spa les Corallines vous fait profiter des bienfaits de la thalassothérapie dans un cadre authentique.</p>"
+            "content": "<p>緑に包まれた小カマルグに位置するタラソ＆スパ・レ・コラリーヌでは、本格的な環境の中でタラソテラピーの恩恵を存分にご体感いただけます。</p>"
           }
         },
         "button_yTtGXc": {
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "découvrir",
+            "text": "詳しく見る",
             "url": "https://www.thalasso-grandemotte.com/content/25-hotel-thalasso-spa-les-corallines",
             "background": "",
             "text_color": ""
@@ -377,7 +377,7 @@
             "image": "shopify://shop_images/cote_ouest.webp",
             "title": "<a href=\"https://hotel-coteouest.com/fr/\" title=\"https://hotel-coteouest.com/fr/\">Côte Ouest</a>",
             "heading_tag": "h3",
-            "content": "<p>Les sables d'Olonne</p>",
+            "content": "<p>レ・サーブル＝ドロンヌ</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -388,7 +388,7 @@
             "image": "shopify://shop_images/spa_o_de_mer.webp",
             "title": "<a href=\"https://www.spaodemer.com/\" title=\"https://www.spaodemer.com/\">Spa Ô de mer</a>",
             "heading_tag": "h3",
-            "content": "<p>La Ciotat</p>",
+            "content": "<p>ラ・シオタ</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -399,7 +399,7 @@
             "image": "shopify://shop_images/sequoia_redwood.webp",
             "title": "<a href=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\" title=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\">Séquoia Redwood</a>",
             "heading_tag": "h3",
-            "content": "<p>Vals-les-Bains</p>",
+            "content": "<p>ヴァル＝レ＝バン</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -410,7 +410,7 @@
             "image": "shopify://shop_images/auspa.webp",
             "title": "<a href=\"https://www.auspa.fr/\" title=\"https://www.auspa.fr/\">AuSpa</a>",
             "heading_tag": "h3",
-            "content": "<p>La Rochelle</p>",
+            "content": "<p>ラ・ロシェル</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -445,7 +445,7 @@
             "image": "shopify://shop_images/Domaine_de_Saint_Endr_ol.webp",
             "title": "<a href=\"https://st-endreol.com/\" title=\"https://st-endreol.com/\">Domaine de Saint Endréol</a>",
             "heading_tag": "h3",
-            "content": "<p>La Motte</p>",
+            "content": "<p>ラ・モット</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -456,7 +456,7 @@
             "image": "shopify://shop_images/spa_l_odyssee.webp",
             "title": "<a href=\"https://www.spaodyssee.com/\" title=\"https://www.spaodyssee.com/\">Spa l'Odyssée</a>",
             "heading_tag": "h3",
-            "content": "<p>Aix-les-Bains</p>",
+            "content": "<p>エクス＝レ＝バン</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -467,7 +467,7 @@
             "image": "shopify://shop_images/balnea.webp",
             "title": "<a href=\"https://www.balnea.fr/\" title=\"https://www.balnea.fr/\">Balnéa</a>",
             "heading_tag": "h3",
-            "content": "<p>Loudenvielle</p>",
+            "content": "<p>ルーデンヴィエル</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -478,7 +478,7 @@
             "image": "shopify://shop_images/reve_de_spa.webp",
             "title": "<a href=\"https://www.reve-de-sable.fr/\" title=\"https://www.reve-de-sable.fr/\">Rêve de Spa</a>",
             "heading_tag": "h3",
-            "content": "<p>Charnay-lès-Mâcon</p>",
+            "content": "<p>シャルネ＝レ＝マコン</p>",
             "link_url": "",
             "link_text": ""
           }
