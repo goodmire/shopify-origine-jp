@@ -96,6 +96,60 @@
         "max_image_zoom_level": 2
       }
     },
+    "multi_column_PKHKiW": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_eRcdzY": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "{{ product.metafields.custom.actif_1_nom.value }}",
+            "heading_tag": "h3",
+            "content": "<p>{{ product.metafields.custom.actif_1_descri | metafield_tag }}</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_8DWYBL": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "{{ product.metafields.custom.actif_2_nom.value }}",
+            "heading_tag": "h3",
+            "content": "<p>{{ product.metafields.custom.actif_2_description | metafield_tag }}</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_iL3gBt": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "{{ product.metafields.custom.actif_1_nom.value }}",
+            "heading_tag": "h3",
+            "content": "<p>{{ product.metafields.custom.actif_3_description | metafield_tag }}</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_eRcdzY",
+        "image_with_text_8DWYBL",
+        "image_with_text_iL3gBt"
+      ],
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "About",
+        "title": "Au coeur des actifs",
+        "content": ""
+      }
+    },
     "rich_text_M3MeiG": {
       "type": "rich-text",
       "blocks": {
@@ -197,6 +251,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
+        "image": "shopify://shop_images/Origine-cosmetiques.com_0000_shutterstock_1550379329_1.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
@@ -223,6 +278,7 @@
   },
   "order": [
     "main",
+    "multi_column_PKHKiW",
     "rich_text_M3MeiG",
     "faq_qRB9cc",
     "image_with_text_rj6MzM",
