@@ -337,6 +337,7 @@
       "settings": {
         "color_scheme": "",
         "image_size": "lg",
+        "image": "shopify://shop_images/Sans_titre-1_1.png",
         "content_width": "lg",
         "enable_parallax": true,
         "remove_vertical_spacing": true
@@ -348,12 +349,14 @@
         "image_Qr7JaV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0000_shutterstock_1550379329_1.png",
             "rotation": 0
           }
         },
         "image_BtpVWh": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Origine-cosmetiques.com_0027_AdobeStock_350255146.png",
             "rotation": 0
           }
         }
