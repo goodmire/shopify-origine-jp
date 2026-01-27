@@ -30,14 +30,14 @@
         "heading_XyYdjX": {
           "type": "heading",
           "settings": {
-            "text": "Origineが提唱するコスメティック・アート",
+            "text": "Origineが提案する「コスメティックという芸術」",
             "heading_tag": "h1"
           }
         },
         "richtext_iAarPQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Origineが提唱するコスメティック・アートは、化粧品職人の技への<strong>思索的で誠実</strong>なアプローチです。</p><p>意図、処方、表現、そして心の在り方において、Origineは<strong>真正</strong>であり、2011年以来その約束にコミットしています。 </p><p><strong>私たちの志と情熱によって、Origineは五感を目覚めさせます。</strong></p>"
+            "content": "<p>Origineが提唱する“アート・コスメティック”は、クラフトマンシップに対する誠実で深いまなざしから生まれたアプローチです。その想い、処方、佇まい、そしてブランドの核に至るまで——Origineは2011年の創業以来、真のオーセンティシティを貫いてきました。私たちの情熱と志が、あなたの五感をそっと目覚めさせます。</p>"
           }
         }
       },
