@@ -29,6 +29,19 @@
     },
     "contact_dhdB6K": {
       "type": "contact",
+      "blocks": {
+        "text_fp9pK7": {
+          "type": "text",
+          "settings": {
+            "title": "電話番号",
+            "use_long_text": false,
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "text_fp9pK7"
+      ],
       "name": "t:sections.contact.presets.contact_form.name",
       "settings": {
         "color_scheme": "",
