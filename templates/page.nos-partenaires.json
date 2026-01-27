@@ -375,7 +375,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/cote_ouest.webp",
-            "title": "<a href=\"https://hotel-coteouest.com/fr/\" title=\"https://hotel-coteouest.com/fr/\">Côte Ouest</a>",
+            "title": "<a href=\"https://hotel-coteouest.com/fr/\" title=\"https://hotel-coteouest.com/fr/\">Côte Ouest（コート・ウエスト）</a>",
             "heading_tag": "h3",
             "content": "<p>レ・サーブル＝ドロンヌ</p>",
             "link_url": "",
@@ -386,7 +386,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/spa_o_de_mer.webp",
-            "title": "<a href=\"https://www.spaodemer.com/\" title=\"https://www.spaodemer.com/\">Spa Ô de mer</a>",
+            "title": "<a href=\"https://www.spaodemer.com/\" title=\"Spa Ô de mer（スパ・オー・ドゥ・メール）\">Spa Ô de mer（スパ・オー・ドゥ・メール）</a>",
             "heading_tag": "h3",
             "content": "<p>ラ・シオタ</p>",
             "link_url": "",
@@ -397,9 +397,9 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/sequoia_redwood.webp",
-            "title": "<a href=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\" title=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\">Séquoia Redwood</a>",
+            "title": "<a href=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\" title=\"https://www.thermesdevals.com/spa-sequoia-redwood-ardeche/\">Séquoia Redwood（セコイア・レッドウッド）</a>",
             "heading_tag": "h3",
-            "content": "<p>ヴァル＝レ＝バン</p>",
+            "content": "<p>アルデシュ地方、ヴァル＝レ＝バン</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -408,7 +408,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/auspa.webp",
-            "title": "<a href=\"https://www.auspa.fr/\" title=\"https://www.auspa.fr/\">AuSpa</a>",
+            "title": "<a href=\"https://www.auspa.fr/\" title=\"https://www.auspa.fr/\">AuSpa（オー・スパ）</a>",
             "heading_tag": "h3",
             "content": "<p>ラ・ロシェル</p>",
             "link_url": "",
