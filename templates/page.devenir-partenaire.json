@@ -334,6 +334,7 @@
         "subheading_FiYTBd",
         "richtext_gBeK4b"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "image_size": "lg",
@@ -378,7 +379,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Origineのトレーニング",
-        "content": "<p>ボディとフェイスの専門家と協働し、Origineは充実した<strong>研修プログラム</strong>を構築しました。</p><p>自然で感性に響く高品質な製品と組み合わさったOrigineのボディ＆フェイスのプロトコルは、<strong>心地よさと確かな効果</strong>の理想的なバランスを実現します。</p>",
+        "content": "<p>ボディ＆フェイシャルケアの専門家と共同で開発された、充実した価値あるトレーニングプログラムをご用意しています。高濃度の有用成分を配合した自然で心地よい製品とともに、Origine独自のボディ＆フェイシャルケアプロトコルは、心地よさと確かな効果を兼ね備えたトリートメント体験を提供します。</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
