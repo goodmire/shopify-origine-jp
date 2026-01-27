@@ -443,7 +443,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/Domaine_de_Saint_Endr_ol.webp",
-            "title": "<a href=\"https://st-endreol.com/\" title=\"https://st-endreol.com/\">Domaine de Saint Endréol</a>",
+            "title": "<a href=\"https://st-endreol.com/\" title=\"https://st-endreol.com/\">Domaine de Saint Endréol（ドメーヌ・ド・サン・アンドレオル）</a>",
             "heading_tag": "h3",
             "content": "<p>ラ・モット</p>",
             "link_url": "",
@@ -454,7 +454,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/spa_l_odyssee.webp",
-            "title": "<a href=\"https://www.spaodyssee.com/\" title=\"https://www.spaodyssee.com/\">Spa l'Odyssée</a>",
+            "title": "<a href=\"https://www.spaodyssee.com/\" title=\"https://www.spaodyssee.com/\">Spa l'Odyssée（スパ・ロディッセ）</a>",
             "heading_tag": "h3",
             "content": "<p>エクス＝レ＝バン</p>",
             "link_url": "",
@@ -465,9 +465,9 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/balnea.webp",
-            "title": "<a href=\"https://www.balnea.fr/\" title=\"https://www.balnea.fr/\">Balnéa</a>",
+            "title": "<a href=\"https://www.balnea.fr/\" title=\"https://www.balnea.fr/\">Balnéa（バルネア）</a>",
             "heading_tag": "h3",
-            "content": "<p>ルーデンヴィエル</p>",
+            "content": "<p>ルダンヴィエル</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -476,7 +476,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/reve_de_spa.webp",
-            "title": "<a href=\"https://www.reve-de-sable.fr/\" title=\"https://www.reve-de-sable.fr/\">Rêve de Spa</a>",
+            "title": "<a href=\"https://www.reve-de-sable.fr/\" title=\"https://www.reve-de-sable.fr/\">Rêve de Spa（レーヴ・ドゥ・スパ）</a>",
             "heading_tag": "h3",
             "content": "<p>シャルネ＝レ＝マコン</p>",
             "link_url": "",
