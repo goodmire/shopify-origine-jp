@@ -59,7 +59,7 @@
         "richtext_HP8JQr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>フランス国内外で、Origineは真摯さと揺るぎない姿勢により、お客様一人ひとりと特別な関係を築いています。Origineの卓越性を体現する、名門パートナーの一部をご紹介します。</p>"
+            "content": "<p>フランス国内外で広がる信頼のネットワーク<br/>Origineは、その誠実さと揺るぎない信念を通じて、フランスはもちろん海外でも、一人ひとりのお客様と特別な関係を築いています。<br/>Origineの卓越した品質を支える、名だたるパートナーの一部をご紹介します。</p>"
           }
         }
       },
@@ -86,14 +86,14 @@
         "heading_iqWief": {
           "type": "heading",
           "settings": {
-            "text": "Terre Blanche *****",
-            "heading_tag": "h1"
+            "text": "Terre Blanche（テル・ブランシュ） ★★★★★",
+            "heading_tag": "h2"
           }
         },
         "richtext_m77ATa": {
           "type": "richtext",
           "settings": {
-            "content": "<p>ヴァール県の壮麗なプロヴァンスの館に佇むTerre Blanche Spaは、伝統と現代のセラピー、革新的なテクノロジーとコスメティクス、そしてプロヴァンスならではのアロマテラピーを融合させています。</p>"
+            "content": "<p>南仏ヴァール地方、プロヴァンスの美しいバスティード（邸宅）に佇む「Terre Blanche Spa」は、伝統と現代のセラピー技術を融合させた特別な空間。<br/><br/>革新的なテクノロジーとコスメトロジーに、プロヴァンスならではのアロマテラピーを組み合わせた、極上のウェルネス体験を提供しています。</p>"
           }
         },
         "button_UmVaBR": {
@@ -135,14 +135,14 @@
         "heading_RzcHWa": {
           "type": "heading",
           "settings": {
-            "text": "Sofitel Quiberon *****",
-            "heading_tag": "h1"
+            "text": "Sofitel Quiberon（ソフィテル・キブロン） ★★★★★",
+            "heading_tag": "h2"
           }
         },
         "richtext_UNtWTV": {
           "type": "richtext",
           "settings": {
-            "content": "<p>自然と調和するこの安らぎの地には、豊かな専門性とウェルビーイングが息づいています。リゾートの中心にあるタラソテラピー＆ウェルビーイングの施設で、忘れがたい癒やしのひとときをお過ごしください。</p>"
+            "content": "<p>自然に抱かれた静寂の隠れ家ーーここには、豊かな専門知識とウェルネスが調和する癒しの世界が広がっています。<br/>リゾートの中心にある「タラソテラピー＆ウェルネス・インスティテュート」では、心と体を解きほぐす忘れられないひとときをお過ごしいただけます。</p>"
           }
         },
         "button_8Y7hHP": {
@@ -184,14 +184,14 @@
         "heading_rnJFPy": {
           "type": "heading",
           "settings": {
-            "text": "Les Roches Blanches *****",
-            "heading_tag": "h1"
+            "text": "Les Roches Blanches（レ・ロッシュ・ブランシュ） ★★★★★",
+            "heading_tag": "h2"
           }
         },
         "richtext_hAkj3K": {
           "type": "richtext",
           "settings": {
-            "content": "<p>カシにあるホテル・レ・ロッシュ・ブランシュは、比類なき自然景観の中でフレンチエレガンスを届け、忘れられない時間を演出します。</p>"
+            "content": "<p>カシの絶景に佇む「レ・ロッシュ・ブランシュ」は、比類なき自然の中でフランス流のエレガンスを体感できるホテル。心に残る特別なひとときをお届けします。</p>"
           }
         },
         "button_f7prtz": {
@@ -233,14 +233,14 @@
         "heading_rGLVNb": {
           "type": "heading",
           "settings": {
-            "text": "Villa Gallici *****",
-            "heading_tag": "h1"
+            "text": "Villa Gallici（ヴィラ・ガリシ） ★★★★★",
+            "heading_tag": "h2"
           }
         },
         "richtext_Rnnf9Q": {
           "type": "richtext",
           "settings": {
-            "content": "<p>エクス＝アン＝プロヴァンス中心部に佇む18世紀の館で、唯一無二の体験を。やさしさと静けさに満ちたひとときをお楽しみください。</p>"
+            "content": "<p>エクス＝アン＝プロヴァンスの中心に佇む、18世紀築のバスティードで、唯一無二の滞在体験を。やさしさと静けさに包まれる、至福のひとときをお楽しみください。</p>"
           }
         },
         "button_mteGYW": {
@@ -282,14 +282,14 @@
         "heading_3dNtLU": {
           "type": "heading",
           "settings": {
-            "text": "Thalazur Bandol Île Rousse *****",
-            "heading_tag": "h1"
+            "text": "Thalazur Bandol Île Rousse（タラズール・バンドール・イル・ルース） ★★★★★",
+            "heading_tag": "h2"
           }
         },
         "richtext_U4ibTd": {
           "type": "richtext",
           "settings": {
-            "content": "<p>特別なホテルスパで自分を労わり、心ほどける時間を。フランス南部ヴァール地方の魅力に触れる旅もお楽しみください。</p>"
+            "content": "<p>極上のスパホテルで、心と身体を解きほぐす贅沢なひとときを。南仏ヴァール地方の魅力あふれる風景と文化に触れながら、ゆったりとした時間をお楽しみください。</p>"
           }
         },
         "button_hq7Mk3": {
