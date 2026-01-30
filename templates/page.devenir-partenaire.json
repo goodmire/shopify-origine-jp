@@ -139,12 +139,38 @@
     "multi_column_TiNTpC": {
       "type": "multi-column",
       "blocks": {
+        "video_with_text_rGty9b": {
+          "type": "video_with_text",
+          "settings": {
+            "autoplay": true,
+            "loop": false,
+            "play_button_background": "#ffffff",
+            "title": "Column title",
+            "heading_tag": "h3",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
         "image_with_text_THVa4D": {
           "type": "image_with_text",
           "settings": {
             "title": "<em>感性に響くコスメ</em>",
             "heading_tag": "h5",
             "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "video_with_text_xwAdwi": {
+          "type": "video_with_text",
+          "settings": {
+            "autoplay": true,
+            "loop": false,
+            "play_button_background": "#ffffff",
+            "title": "Column title",
+            "heading_tag": "h3",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -171,7 +197,9 @@
         }
       },
       "block_order": [
+        "video_with_text_rGty9b",
         "image_with_text_THVa4D",
+        "video_with_text_xwAdwi",
         "image_with_text_eLU8LN",
         "image_with_text_T36AeT"
       ],
@@ -237,7 +265,7 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "フェイスケア",
+            "button_text": "Le visage フェイスケア",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
@@ -253,7 +281,7 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "フレグランス",
+            "button_text": "Les parfums フレグランス",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
@@ -269,7 +297,7 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "ボディケア",
+            "button_text": "Le corps ボディケア",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
@@ -285,7 +313,7 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "ホーム",
+            "button_text": "La maison ホーム",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
