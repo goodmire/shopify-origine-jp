@@ -15,7 +15,7 @@
         "richtext_qJaPdr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>La Crème Sublimatrice. L'efficacité par Nature. </p>"
+            "content": "<h3><a href=\"/collections/eaux-de-parfums\" title=\"Eaux de parfum\">L'eau de parfum, par Origine.</a></h3>"
           }
         }
       },
@@ -26,10 +26,10 @@
       "settings": {
         "autoplay": true,
         "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/918a40e44f8a41fb83720f2537536c89.SD-480p-1.5Mbps-64307348.mp4",
+        "video_size": "md",
+        "video": "shopify://files/videos/eau de parfum Origine$.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
+        "text_color": "#5c5c5c"
       }
     },
     "rich_text_Y33aWK": {
@@ -97,7 +97,7 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "フェイスケア",
+            "button_text": "Le visage フェイスケア",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
@@ -114,7 +114,7 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "フレグランス",
+            "button_text": "Les parfums フレグランス",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
@@ -131,7 +131,7 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "Le corps　ボディケア",
+            "button_text": "Le corps ボディケア",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
