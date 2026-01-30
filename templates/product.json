@@ -200,7 +200,7 @@
         "question_MPqjFh": {
           "type": "question",
           "settings": {
-            "question": "全配合成分",
+            "question": "全成分",
             "answer": "<p>{{ product.metafields.custom.inci | metafield_tag }}</p>"
           }
         },
