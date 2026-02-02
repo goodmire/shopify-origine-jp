@@ -379,6 +379,7 @@
         "buy_buttons_jQVgPn",
         "pickup_availability_FJdRbe"
       ],
+      "disabled": true,
       "name": "t:sections.featured_product.presets.featured_product.name",
       "settings": {
         "color_scheme": "",
