@@ -251,7 +251,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Origine-cosmetiques.com_0000_shutterstock_1550379329_1.png",
+        "image": "{{ product.metafields.custom.en_une_phrase_img.value }}",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
