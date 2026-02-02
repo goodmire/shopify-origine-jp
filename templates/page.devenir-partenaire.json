@@ -139,22 +139,10 @@
     "multi_column_TiNTpC": {
       "type": "multi-column",
       "blocks": {
-        "video_with_text_rGty9b": {
-          "type": "video_with_text",
-          "settings": {
-            "autoplay": true,
-            "loop": false,
-            "play_button_background": "#ffffff",
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
         "image_with_text_THVa4D": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/fleur.webp",
             "title": "<em>感性に響くコスメ</em>",
             "heading_tag": "h5",
             "content": "",
@@ -162,22 +150,10 @@
             "link_text": ""
           }
         },
-        "video_with_text_xwAdwi": {
-          "type": "video_with_text",
-          "settings": {
-            "autoplay": true,
-            "loop": false,
-            "play_button_background": "#ffffff",
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
         "image_with_text_eLU8LN": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/main.webp",
             "title": "<em>フランス製・職人仕立て</em>",
             "heading_tag": "h5",
             "content": "",
@@ -188,6 +164,7 @@
         "image_with_text_T36AeT": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/feuille.webp",
             "title": "<em>自然由来・オーガニック原料</em>",
             "heading_tag": "h5",
             "content": "",
@@ -197,11 +174,12 @@
         }
       },
       "block_order": [
-        "video_with_text_rGty9b",
         "image_with_text_THVa4D",
-        "video_with_text_xwAdwi",
         "image_with_text_eLU8LN",
         "image_with_text_T36AeT"
+      ],
+      "custom_css": [
+        ".multi-column__item--overlap > .prose {margin-block-start: unset;}"
       ],
       "settings": {
         "color_scheme": "",
