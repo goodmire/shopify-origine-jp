@@ -25,7 +25,7 @@
       "name": "t:sections.video.presets.video.name",
       "settings": {
         "autoplay": true,
-        "show_controls": true,
+        "show_controls": false,
         "video_size": "md",
         "video": "shopify://files/videos/eau de parfum Origine$.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
