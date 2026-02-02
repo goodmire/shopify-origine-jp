@@ -69,6 +69,18 @@
             "stack_products": false,
             "show_quick_buy": true
           }
+        },
+        "feature_with_icon_Vn4nLk": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "自然成分：{{ product.metafields.custom.naturalit.value }}",
+            "link": "",
+            "icon": "picto-earth",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
         }
       },
       "block_order": [
@@ -79,7 +91,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "complementary_products"
+        "complementary_products",
+        "feature_with_icon_Vn4nLk"
       ],
       "settings": {
         "color_scheme": "",
