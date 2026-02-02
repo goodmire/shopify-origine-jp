@@ -122,7 +122,7 @@
         "image_with_text_iL3gBt": {
           "type": "image_with_text",
           "settings": {
-            "title": "{{ product.metafields.custom.actif_1_nom.value }}",
+            "title": "{{ product.metafields.custom.actif_3_nom.value }}",
             "heading_tag": "h3",
             "content": "<p>{{ product.metafields.custom.actif_3_description | metafield_tag }}</p>",
             "link_url": "",
