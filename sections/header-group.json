@@ -36,24 +36,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "mega_menu_4NedRY": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "コレクションフレグランス",
-            "images_position": "left",
-            "image_1_heading": "Les collections signature",
-            "image_1_text": "",
-            "image_1_link": "shopify://pages/nos-valeurs",
-            "image_2_heading": "Les collections voyage",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "mega_menu_4NedRY"
-      ],
       "settings": {
         "color_scheme": "scheme-b5602712-5d31-4069-8d1a-aa5006800ba8",
         "enable_sticky": true,
