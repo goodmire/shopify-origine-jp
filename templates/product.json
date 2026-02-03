@@ -226,12 +226,20 @@
             "question": "おすすめポイント",
             "answer": "<p>{{ product.metafields.custom.description_longue | metafield_tag }}</p>"
           }
+        },
+        "question_CCrxBF": {
+          "type": "question",
+          "settings": {
+            "question": "使用方法",
+            "answer": "<p>{{ product.metafields.custom.comment_l_utiliser | metafield_tag }}</p>"
+          }
         }
       },
       "block_order": [
         "question_jKjWP8",
         "question_MPqjFh",
-        "question_9hfjXt"
+        "question_9hfjXt",
+        "question_CCrxBF"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
