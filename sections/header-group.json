@@ -40,145 +40,19 @@
         "mega_menu_4NedRY": {
           "type": "mega_menu",
           "settings": {
-            "menu_item": "mega-menu-fragrance",
+            "menu_item": "コレクションフレグランス",
             "images_position": "left",
-            "image_1_heading": "",
+            "image_1_heading": "Les collections signature",
             "image_1_text": "",
             "image_1_link": "shopify://pages/nos-valeurs",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_EzfJM3": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "offrir",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_Xf3QMY": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "La Maison",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_Y6C6yG": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "la marque",
-            "images_position": "left",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "shopify://pages/nos-valeurs",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_DkFnae": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "professionnels",
-            "images_position": "left",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": "shopify://products/brume-de-parfum-fleur-de-coton-instant-cocooning-en-scandinavie"
-          }
-        },
-        "mega_menu_NPETne": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_MBWmkK": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "les soins visage",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_Ve4dmN": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "les soins corps",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_ThjrxC": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "contact",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_hTtXxy": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "les collections parfumées",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
+            "image_2_heading": "Les collections voyage",
             "image_2_text": "",
             "image_2_link": ""
           }
         }
       },
       "block_order": [
-        "mega_menu_4NedRY",
-        "mega_menu_EzfJM3",
-        "mega_menu_Xf3QMY",
-        "mega_menu_Y6C6yG",
-        "mega_menu_DkFnae",
-        "mega_menu_NPETne",
-        "mega_menu_MBWmkK",
-        "mega_menu_Ve4dmN",
-        "mega_menu_ThjrxC",
-        "mega_menu_hTtXxy"
+        "mega_menu_4NedRY"
       ],
       "settings": {
         "color_scheme": "scheme-b5602712-5d31-4069-8d1a-aa5006800ba8",
