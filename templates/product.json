@@ -251,19 +251,50 @@
         "content": ""
       }
     },
+    "image_with_text_MwxQJi": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_7midFX": {
+          "type": "subheading",
+          "settings": {
+            "text": "Le produit en une phrase　一言で言うと…"
+          }
+        },
+        "richtext_x6DFRK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>{{ product.metafields.custom.en_une_phrase.value }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_7midFX",
+        "richtext_x6DFRK"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "{{ product.metafields.custom.en_une_phrase_img.value }}",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "image_with_text_rj6MzM": {
       "type": "image-with-text",
       "blocks": {
         "subheading_mPrhDU": {
           "type": "subheading",
           "settings": {
-            "text": "Le produit en une phrase　一言で言うと…"
+            "text": "製品について"
           }
         },
         "richtext_XWzi8k": {
           "type": "richtext",
           "settings": {
-            "content": "<p>{{ product.metafields.custom.en_une_phrase.value }}</p>"
+            "content": "<p>{{ product.metafields.custom.custom_story | metafield_tag }}</p>"
           }
         }
       },
@@ -275,9 +306,9 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "{{ product.metafields.custom.en_une_phrase_img.value }}",
+        "image": "{{ product.metafields.custom.story_img.value }}",
         "reveal_on_scroll": true,
-        "image_position": "start",
+        "image_position": "end",
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
@@ -414,6 +445,7 @@
     "multi_column_PKHKiW",
     "rich_text_M3MeiG",
     "faq_qRB9cc",
+    "image_with_text_MwxQJi",
     "image_with_text_rj6MzM",
     "related-products",
     "featured_product_QLmyzE"
