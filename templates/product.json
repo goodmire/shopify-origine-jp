@@ -210,7 +210,7 @@
           "type": "question",
           "settings": {
             "question": "香りの特徴",
-            "answer": "<p>{{ product.metafields.custom.note_de_tete.value }}{{ product.metafields.custom.note_de_coeur.value }}{{ product.metafields.custom.note_de_tete.value }}</p>"
+            "answer": "<p>{{ product.metafields.custom.note_de_tete.value }}{{ product.metafields.custom.note_de_fond.value }}{{ product.metafields.custom.note_de_coeur.value }}</p>"
           }
         },
         "question_MPqjFh": {
