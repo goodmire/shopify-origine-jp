@@ -38,7 +38,8 @@
                   {%- endif -%}
 
                 {%- when 'question' -%}
-                  {%- if block.settings.question != blank and block.settings.answer != blank -%}
+                  {%- assign answer_clean   = block.settings.answer   | strip_html | strip -%}
+                  {%- if block.settings.question != blank and answer_clean != blank -%}
                     {%- capture answer -%}
                       <div class="prose">
                         {{- block.settings.answer -}}
